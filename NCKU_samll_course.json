@@ -1,0 +1,6230 @@
+[
+  {
+    "course_name": "水中有氧與健康體能",
+    "teacher_name": "高華君 ",
+    "time": "[3]7~8",
+    "classroom": "無                            勝利游泳池"
+  },
+  {
+    "course_name": "水中有氧與健康體能",
+    "teacher_name": "高華君 ",
+    "time": "[4]7~8",
+    "classroom": "無                            勝利游泳池"
+  },
+  {
+    "course_name": "韻律與健康體能",
+    "teacher_name": "高華君 ",
+    "time": "[2]7~8",
+    "classroom": "無                            自強韻律室"
+  },
+  {
+    "course_name": "現代舞與健康體能",
+    "teacher_name": "陳許春香 ",
+    "time": "[4]7~8",
+    "classroom": "勝八                          健休韻律教室"
+  },
+  {
+    "course_name": "健康有氧與健康體能",
+    "teacher_name": "洪甄憶 ",
+    "time": "[2]7~8",
+    "classroom": "勝八                          健休體適能"
+  },
+  {
+    "course_name": "健康有氧與健康體能",
+    "teacher_name": "洪甄憶 ",
+    "time": "[3]7~8",
+    "classroom": "勝八                          健休體適能"
+  },
+  {
+    "course_name": "健康有氧與健康體能",
+    "teacher_name": "林麗娟 ",
+    "time": "[5]7~8",
+    "classroom": "勝八                          健休體適能"
+  },
+  {
+    "course_name": "游泳與健康體能",
+    "teacher_name": "周學雯 ",
+    "time": "[3]7~8",
+    "classroom": "無                            勝利游泳池"
+  },
+  {
+    "course_name": "游泳與健康體能",
+    "teacher_name": "周學雯 ",
+    "time": "[1]7~8",
+    "classroom": "無                            勝利游泳池"
+  },
+  {
+    "course_name": "直排輪與健康體能",
+    "teacher_name": "黃鈴雯 ",
+    "time": "[2]7~8",
+    "classroom": "學生活動中心                  活動中心騎樓"
+  },
+  {
+    "course_name": "硬網與健康體能",
+    "teacher_name": "王苓華 ",
+    "time": "[4]7~8",
+    "classroom": "無                            敬業網球場"
+  },
+  {
+    "course_name": "硬網與健康體能",
+    "teacher_name": "王苓華 ",
+    "time": "[2]7~8",
+    "classroom": "無                            敬業網球場"
+  },
+  {
+    "course_name": "軟網與健康體能",
+    "teacher_name": "王苓華 ",
+    "time": "[1]7~8",
+    "classroom": "無                            敬業網球場"
+  },
+  {
+    "course_name": "排球與健康體能",
+    "teacher_name": "黃賢哲 ",
+    "time": "[3]7~8",
+    "classroom": "無                            光復排球高場"
+  },
+  {
+    "course_name": "羽球與健康體能",
+    "teacher_name": "涂國誠 ",
+    "time": "[3]7~8",
+    "classroom": "中正堂                        中正堂羽球場"
+  },
+  {
+    "course_name": "羽球與健康體能",
+    "teacher_name": "蔡佳良 ",
+    "time": "[4]7~8",
+    "classroom": "中正堂                        中正堂羽球場"
+  },
+  {
+    "course_name": "羽球與健康體能",
+    "teacher_name": "黃鈴雯 ",
+    "time": "[5]7~8",
+    "classroom": "中正堂                        中正堂羽球場"
+  },
+  {
+    "course_name": "羽球與健康體能",
+    "teacher_name": "涂國誠 ",
+    "time": "[1]7~8",
+    "classroom": "中正堂                        中正堂羽球場"
+  },
+  {
+    "course_name": "桌球與健康體能",
+    "teacher_name": "徐珊惠 ",
+    "time": "[3]7~8",
+    "classroom": "中正堂                        中正堂桌球場"
+  },
+  {
+    "course_name": "桌球與健康體能",
+    "teacher_name": "徐珊惠 ",
+    "time": "[1]7~8",
+    "classroom": "中正堂                        中正堂桌球場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "黃彥慈 ",
+    "time": "[5]7~8",
+    "classroom": "無                            光復籃球低場"
+  },
+  {
+    "course_name": "瑜伽與健康體能",
+    "teacher_name": "洪甄憶 ",
+    "time": "[1]7~8",
+    "classroom": "無                            自強韻律室"
+  },
+  {
+    "course_name": "硬網與健康體能",
+    "teacher_name": "馬上鈞 ",
+    "time": "[1]7~8",
+    "classroom": "無                            光復網球場"
+  },
+  {
+    "course_name": "硬網與健康體能",
+    "teacher_name": "馬上鈞 ",
+    "time": "[2]7~8",
+    "classroom": "無                            光復網球場"
+  },
+  {
+    "course_name": "硬網與健康體能",
+    "teacher_name": "李劍如 ",
+    "time": "[3]7~8",
+    "classroom": "無                            敬業網球場"
+  },
+  {
+    "course_name": "游泳與健康體能",
+    "teacher_name": "黃賢哲 ",
+    "time": "[5]7~8",
+    "classroom": "無                            勝利游泳池"
+  },
+  {
+    "course_name": "游泳與健康體能",
+    "teacher_name": "黃賢哲 ",
+    "time": "[2]7~8",
+    "classroom": "無                            勝利游泳池"
+  },
+  {
+    "course_name": "自由車與健康體能",
+    "teacher_name": "施光隆 ",
+    "time": "[4]7~8",
+    "classroom": "無                            游泳池前"
+  },
+  {
+    "course_name": "直排輪與健康體能",
+    "teacher_name": "黃鈴雯 ",
+    "time": "[2]7~8",
+    "classroom": "學生活動中心                  活動中心騎樓"
+  },
+  {
+    "course_name": "健康有氧與健康體能",
+    "teacher_name": "王駿濠 ",
+    "time": "[4]7~8",
+    "classroom": "勝八                          健休體適能"
+  },
+  {
+    "course_name": "健康有氧與健康體能",
+    "teacher_name": "林麗娟 ",
+    "time": "[5]7~8",
+    "classroom": "勝八                          健休體適能"
+  },
+  {
+    "course_name": "體適能運動與健康體能",
+    "teacher_name": "黃滄海 ",
+    "time": "[1]7~8",
+    "classroom": "勝八                          健休體適能"
+  },
+  {
+    "course_name": "健訓與健康體能",
+    "teacher_name": "黃滄海 ",
+    "time": "[2]7~8",
+    "classroom": "無                            光操健訓室"
+  },
+  {
+    "course_name": "健訓與健康體能",
+    "teacher_name": "黃滄海 ",
+    "time": "[4]7~8",
+    "classroom": "無                            光操健訓室"
+  },
+  {
+    "course_name": "健訓與健康體能",
+    "teacher_name": "林欣仕 ",
+    "time": "[3]7~8",
+    "classroom": "無                            光操健訓室"
+  },
+  {
+    "course_name": "健訓與健康體能",
+    "teacher_name": "王駿濠 ",
+    "time": "[5]7~8",
+    "classroom": "無                            光操健訓室"
+  },
+  {
+    "course_name": "足球與健康體能",
+    "teacher_name": "楊書銘 ",
+    "time": "[4]7~8",
+    "classroom": "無                            光復體育場"
+  },
+  {
+    "course_name": "足球與健康體能",
+    "teacher_name": "王駿濠 ",
+    "time": "[2]7~8",
+    "classroom": "無                            光復體育場"
+  },
+  {
+    "course_name": "羽球與健康體能",
+    "teacher_name": "涂國誠 ",
+    "time": "[2]7~8",
+    "classroom": "中正堂                        中正堂羽球場"
+  },
+  {
+    "course_name": "羽球與健康體能",
+    "teacher_name": "涂國誠 ",
+    "time": "[3]7~8",
+    "classroom": "中正堂                        中正堂羽球場"
+  },
+  {
+    "course_name": "羽球與健康體能",
+    "teacher_name": "蔡佳良 ",
+    "time": "[4]7~8",
+    "classroom": "中正堂                        中正堂羽球場"
+  },
+  {
+    "course_name": "羽球與健康體能",
+    "teacher_name": "黃鈴雯 ",
+    "time": "[5]7~8",
+    "classroom": "中正堂                        中正堂羽球場"
+  },
+  {
+    "course_name": "桌球與健康體能",
+    "teacher_name": "徐珊惠 ",
+    "time": "[3]7~8",
+    "classroom": "中正堂                        中正堂桌球場"
+  },
+  {
+    "course_name": "桌球與健康體能",
+    "teacher_name": "徐珊惠 ",
+    "time": "[2]7~8",
+    "classroom": "中正堂                        中正堂桌球場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "李劍如 ",
+    "time": "[2]7~8",
+    "classroom": "無                            光復籃球低場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "李劍如 ",
+    "time": "[4]7~8",
+    "classroom": "無                            光復籃球低場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "謝孟志 ",
+    "time": "[4]7~8",
+    "classroom": "無                            自強籃球場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "黃彥慈 ",
+    "time": "[2]7~8",
+    "classroom": "無                            光復籃球高場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "潘慧雯 ",
+    "time": "[1]7~8",
+    "classroom": "無                            自強籃球場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "潘慧雯 ",
+    "time": "[5]7~8",
+    "classroom": "無                            自強籃球場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "潘慧雯 ",
+    "time": "[3]7~8",
+    "classroom": "無                            自強籃球場"
+  },
+  {
+    "course_name": "籃球與健康體能",
+    "teacher_name": "黃彥慈 ",
+    "time": "[3]7~8",
+    "classroom": "無                            光復籃球低場"
+  },
+  {
+    "course_name": "壘球與健康體能",
+    "teacher_name": "謝孟志 ",
+    "time": "[2]7~8",
+    "classroom": "無                            自強體育場"
+  },
+  {
+    "course_name": "壘球與健康體能",
+    "teacher_name": "謝孟志 ",
+    "time": "[3]7~8",
+    "classroom": "無                            自強體育場"
+  },
+  {
+    "course_name": "壘球與健康體能",
+    "teacher_name": "黃彥慈 ",
+    "time": "[1]7~8",
+    "classroom": "無                            自強體育場"
+  },
+  {
+    "course_name": "排球與健康體能",
+    "teacher_name": "黃鴻鈞 ",
+    "time": "[4]7~8",
+    "classroom": "無                            光復排球場"
+  },
+  {
+    "course_name": "排球與健康體能",
+    "teacher_name": "黃鴻鈞 ",
+    "time": "[5]7~8",
+    "classroom": "無                            光復排球場"
+  },
+  {
+    "course_name": "排球與健康體能",
+    "teacher_name": "黃鴻鈞 ",
+    "time": "[2]7~8",
+    "classroom": "無                            光復排球場"
+  },
+  {
+    "course_name": "青少年心理學",
+    "teacher_name": "饒夢霞 ",
+    "time": "[5]7~8",
+    "classroom": "雲平大樓                      27808"
+  },
+  {
+    "course_name": "特殊教育導論",
+    "teacher_name": "董旭英 ",
+    "time": "[5]7~8",
+    "classroom": "雲平大樓                      e化創新教室"
+  },
+  {
+    "course_name": "教學方法與策略",
+    "teacher_name": "楊琬琳 ",
+    "time": "[2]5~6",
+    "classroom": "雲平大樓                      e化創新教室"
+  },
+  {
+    "course_name": "戶外探索設計與實施",
+    "teacher_name": "朱朝煌 ",
+    "time": "[3]9~A",
+    "classroom": "雲平大樓                      e化創新教室"
+  },
+  {
+    "course_name": "教學設計與簡報",
+    "teacher_name": "于富雲 ",
+    "time": "[2]3~4",
+    "classroom": "雲平大樓                      e化創新教室"
+  },
+  {
+    "course_name": "綜合活動學習領域課程設計與實施",
+    "teacher_name": "洪素蘋 ",
+    "time": "[3]5~6",
+    "classroom": "雲平大樓                      e化創新教室"
+  },
+  {
+    "course_name": "教育議題專題",
+    "teacher_name": "楊琬琳 洪素蘋*",
+    "time": "[2]7~8",
+    "classroom": "唯農大樓                      許文龍講堂"
+  },
+  {
+    "course_name": "JAVA 程式設計（一）",
+    "teacher_name": "陳明輝 ",
+    "time": "[1]N~6",
+    "classroom": "資訊大樓                      75301"
+  },
+  {
+    "course_name": "JAVA 程式設計（一）",
+    "teacher_name": "陳明輝 ",
+    "time": "[4]N~6",
+    "classroom": "資訊大樓                      75301"
+  },
+  {
+    "course_name": "服務學習（三）－榕鳳形象大使服務",
+    "teacher_name": "湯　堯 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三）─慈幼與服務學習",
+    "teacher_name": "周士琦 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三）－畢典服務與反思",
+    "teacher_name": "蔡慧珍 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三）—關懷與美善",
+    "teacher_name": "林呈鳳 ",
+    "time": "[3]N",
+    "classroom": "物治系館                      B02"
+  },
+  {
+    "course_name": "服務學習（三）─圖書館館藏維護管理",
+    "teacher_name": "王健文 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三）─大學博物館的學習服務與服",
+    "teacher_name": "蔡佳良 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三）─藝術中心",
+    "teacher_name": "吳光庭 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三） ─圖書閱覽服務",
+    "teacher_name": "王健文 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三）─醫院服務與體驗",
+    "teacher_name": "許博翔 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三） ─校園無障礙",
+    "teacher_name": "鄭淑惠 ",
+    "time": "[4]3~4",
+    "classroom": "唯農大樓                      7108"
+  },
+  {
+    "course_name": "服務學習（三）─接待義工",
+    "teacher_name": "蔡美玲 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三）─課輔志工",
+    "teacher_name": "董旭英 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（三）─分享愛‧愛分享",
+    "teacher_name": "徐碧真 ",
+    "time": "[2]N",
+    "classroom": "物治系館                      B02"
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "桂椿雄 ",
+    "time": "[1]2~3[3]1~2",
+    "classroom": "化學系館                      3274"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "苗舜培 ",
+    "time": "[1]A~C",
+    "classroom": "物理二館                      49322"
+  },
+  {
+    "course_name": "公民與歷史(憲政民主體制)",
+    "teacher_name": "孫順智 ",
+    "time": "[2]5~6",
+    "classroom": "企管系館                      62218"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉之中 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "航太系館                      5825"
+  },
+  {
+    "course_name": "公民與歷史(歷史與文化)",
+    "teacher_name": "陳計堯 ",
+    "time": "[2]5~6",
+    "classroom": "耐震擴建大樓                  5107"
+  },
+  {
+    "course_name": "華語教材教法",
+    "teacher_name": "陳怡靜 ",
+    "time": "[4]5~6",
+    "classroom": "修齊大樓                      26707"
+  },
+  {
+    "course_name": "華語文教學導論",
+    "teacher_name": "宋怡南 ",
+    "time": "[2]5~6",
+    "classroom": "修齊大樓                      26707"
+  },
+  {
+    "course_name": "國語語音學",
+    "teacher_name": "宋怡南 ",
+    "time": "[3]3~4",
+    "classroom": "修齊大樓                      26707"
+  },
+  {
+    "course_name": "國語語音學",
+    "teacher_name": "宋怡南 ",
+    "time": "[3]5~6",
+    "classroom": "修齊大樓                      26707"
+  },
+  {
+    "course_name": "漢字理論與教學",
+    "teacher_name": "宋怡南 ",
+    "time": "[2]7~8",
+    "classroom": "修齊大樓                      26707"
+  },
+  {
+    "course_name": "詞彙學",
+    "teacher_name": "陳怡靜 ",
+    "time": "[1]2~3",
+    "classroom": "修齊大樓                      26707"
+  },
+  {
+    "course_name": "詞彙學",
+    "teacher_name": "陳怡靜 ",
+    "time": "[1]5~6",
+    "classroom": "修齊大樓                      26707"
+  },
+  {
+    "course_name": "第二語言習得",
+    "teacher_name": "陳怡靜 ",
+    "time": "[4]3~4",
+    "classroom": "修齊大樓                      26707"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]2",
+    "classroom": ""
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "賴明德 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[1]5~6",
+    "classroom": "唯農大樓                      7115"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[4]1",
+    "classroom": "唯農大樓                      7115"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "唐遜宜 ",
+    "time": "[1]5~6",
+    "classroom": "唯農大樓                      7211"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "唐遜宜 ",
+    "time": "[4]1",
+    "classroom": "唯農大樓                      7211"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[1]5~6",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[4]1",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "辛佳玲*",
+    "time": "[1]5~6",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "游素玲 ",
+    "time": "[4]1",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[1]5~6",
+    "classroom": "唯農大樓                      7217"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[4]1",
+    "classroom": "唯農大樓                      7217"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "葉靜怡 ",
+    "time": "[1]5~6",
+    "classroom": "唯農大樓                      7313"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "葉靜怡 ",
+    "time": "[4]1",
+    "classroom": "唯農大樓                      7313"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳裕隆 ",
+    "time": "[1]5~6",
+    "classroom": "工管系館                      61104"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳裕隆 ",
+    "time": "[4]1",
+    "classroom": "工管系館                      61104"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "許富貴 ",
+    "time": "[1]5~6",
+    "classroom": "耐震擴建大樓                  5108"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "許富貴 ",
+    "time": "[4]1",
+    "classroom": "耐震擴建大樓                  5108"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[1]5~6",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[4]1",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[2]3~4",
+    "classroom": "唯農大樓                      7217"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[4]2",
+    "classroom": "唯農大樓                      7217"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳麗美 ",
+    "time": "[2]3~4",
+    "classroom": "唯農大樓                      7108"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳麗美 ",
+    "time": "[4]2",
+    "classroom": "唯農大樓                      7309"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[2]3~4",
+    "classroom": "唯農大樓                      7215"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[4]2",
+    "classroom": "唯農大樓                      7215"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "呂惠雁 ",
+    "time": "[2]3~4",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "呂惠雁 ",
+    "time": "[4]2",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[2]5~6",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[5]8",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳俐文 ",
+    "time": "[2]5~6",
+    "classroom": "唯農大樓                      7405"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳俐文 ",
+    "time": "[5]8",
+    "classroom": "唯農大樓                      7405"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳裕隆 ",
+    "time": "[2]5~6",
+    "classroom": "唯農大樓                      7117"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳裕隆 ",
+    "time": "[5]8",
+    "classroom": "唯農大樓                      7117"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[2]5~6",
+    "classroom": "唯農大樓                      7307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[5]8",
+    "classroom": "唯農大樓                      7307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳安純 ",
+    "time": "[2]5~6",
+    "classroom": "唯農大樓                      7211"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳安純 ",
+    "time": "[5]8",
+    "classroom": "唯農大樓                      7211"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "唐遜宜 ",
+    "time": "[3]3~4",
+    "classroom": "唯農大樓                      7211"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "唐遜宜 ",
+    "time": "[5]2",
+    "classroom": "唯農大樓                      7211"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[3]3~4",
+    "classroom": "唯農大樓                      7311"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[5]2",
+    "classroom": "唯農大樓                      7311"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "呂惠雁 ",
+    "time": "[3]3~4",
+    "classroom": "唯農大樓                      7309"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "呂惠雁 ",
+    "time": "[5]2",
+    "classroom": "唯農大樓                      7309"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[3]3~4",
+    "classroom": "唯農大樓                      7117"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[5]2",
+    "classroom": "唯農大樓                      7117"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "吳少方 ",
+    "time": "[3]3~4",
+    "classroom": "唯農大樓                      7407"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "吳少方 ",
+    "time": "[5]2",
+    "classroom": "唯農大樓                      7407"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "杜佩璇 ",
+    "time": "[3]3~4",
+    "classroom": "唯農大樓                      7217"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "杜佩璇 ",
+    "time": "[5]2",
+    "classroom": "唯農大樓                      7217"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "賴諭萱 ",
+    "time": "[3]3~4",
+    "classroom": "唯農大樓                      7302"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "賴諭萱 ",
+    "time": "[5]2",
+    "classroom": "唯農大樓                      7302"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[3]3~4",
+    "classroom": "唯農大樓                      7313"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[5]2",
+    "classroom": "唯農大樓                      7313"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳俐文 ",
+    "time": "[4]3~4",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳俐文 ",
+    "time": "[2]1",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[4]3~4",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[2]1",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[4]3~4",
+    "classroom": "唯農大樓                      7211"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[2]1",
+    "classroom": "唯農大樓                      7211"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[4]3~4",
+    "classroom": "耐震擴建大樓                  5118"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[2]1",
+    "classroom": "耐震擴建大樓                  5118"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "唐遜宜 ",
+    "time": "[4]3~4",
+    "classroom": "唯農大樓                      7215"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "唐遜宜 ",
+    "time": "[2]1",
+    "classroom": "唯農大樓                      7215"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "吳少方 ",
+    "time": "[4]3~4",
+    "classroom": "唯農大樓                      7307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "吳少方 ",
+    "time": "[2]1",
+    "classroom": "唯農大樓                      7307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "呂惠雁 ",
+    "time": "[4]3~4",
+    "classroom": "唯農大樓                      7115"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "呂惠雁 ",
+    "time": "[2]1",
+    "classroom": "唯農大樓                      7115"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳安純 ",
+    "time": "[4]3~4",
+    "classroom": "唯農大樓                      7302"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳安純 ",
+    "time": "[2]1",
+    "classroom": "唯農大樓                      7302"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[4]5~6",
+    "classroom": "唯農大樓                      7117"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[1]8",
+    "classroom": "唯農大樓                      7117"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳俐文 ",
+    "time": "[4]5~6",
+    "classroom": "唯農大樓                      7115"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳俐文 ",
+    "time": "[1]8",
+    "classroom": "唯農大樓                      7115"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[4]5~6",
+    "classroom": "唯農大樓                      7217"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[1]8",
+    "classroom": "唯農大樓                      7217"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳安純 ",
+    "time": "[4]5~6",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳安純 ",
+    "time": "[1]8",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[4]5~6",
+    "classroom": "唯農大樓                      7405"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[1]8",
+    "classroom": "唯農大樓                      7405"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳裕隆 ",
+    "time": "[4]5~6",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳裕隆 ",
+    "time": "[1]8",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曾惠鈴 ",
+    "time": "[4]5~6",
+    "classroom": "唯農大樓                      7403"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曾惠鈴 ",
+    "time": "[1]8",
+    "classroom": "唯農大樓                      7403"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "柯瓊琪 ",
+    "time": "[4]5~6",
+    "classroom": "唯農大樓                      7215"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "柯瓊琪 ",
+    "time": "[1]8",
+    "classroom": "唯農大樓                      7215"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳世威 ",
+    "time": "[4]5~6",
+    "classroom": "唯農大樓                      7307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "陳世威 ",
+    "time": "[1]8",
+    "classroom": "唯農大樓                      7307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[5]3~4",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "阮素菁 ",
+    "time": "[2]2",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "唐遜宜 ",
+    "time": "[5]3~4",
+    "classroom": "唯農大樓                      7309"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "唐遜宜 ",
+    "time": "[2]2",
+    "classroom": "唯農大樓                      7309"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[5]3~4",
+    "classroom": "唯農大樓                      7215"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "鍾淑玫 ",
+    "time": "[2]2",
+    "classroom": "唯農大樓                      7215"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[5]3~4",
+    "classroom": "唯農大樓                      7311"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "黃妃 ",
+    "time": "[2]2",
+    "classroom": "唯農大樓                      7311"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "吳少方 ",
+    "time": "[5]3~4",
+    "classroom": "唯農大樓                      7307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "吳少方 ",
+    "time": "[2]2",
+    "classroom": "唯農大樓                      7307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[5]3~4",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "曹瑞敏 ",
+    "time": "[2]2",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "呂惠雁 ",
+    "time": "[5]3~4",
+    "classroom": "唯農大樓                      7302"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "呂惠雁 ",
+    "time": "[2]2",
+    "classroom": "唯農大樓                      7302"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "李淑如 ",
+    "time": "[1]7~8",
+    "classroom": "光復教學大樓(空大)            53101"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "高佑仁 ",
+    "time": "[1]7~8",
+    "classroom": "土木系館                      4505"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "黃潔莉 ",
+    "time": "[1]7~8",
+    "classroom": "耐震擴建大樓                  5108"
+  },
+  {
+    "course_name": "基礎國文(現代詩)（二）",
+    "teacher_name": "李京珮 ",
+    "time": "[1]7~8",
+    "classroom": "建築科技大樓                  5172"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "仇小屏 ",
+    "time": "[1]7~8",
+    "classroom": "都計系館                      50204"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "吳文璋 ",
+    "time": "[1]7~8",
+    "classroom": "測量系館                      55170"
+  },
+  {
+    "course_name": "基礎國文(古典散文)（二）",
+    "teacher_name": "林美惠 ",
+    "time": "[1]7~8",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "陳梅香 ",
+    "time": "[1]7~8",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "基礎國文(現代小說)（二）",
+    "teacher_name": "蘇敏逸 ",
+    "time": "[1]7~8",
+    "classroom": "工管系館                      61104"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "黃聖松 ",
+    "time": "[1]7~8",
+    "classroom": "企管系館                      62218"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "陳弘學 ",
+    "time": "[2]7~8",
+    "classroom": "唯農大樓                      7108"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "李淑如 ",
+    "time": "[2]7~8",
+    "classroom": "耐震擴建大樓                  5107"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "黃潔莉 ",
+    "time": "[2]7~8",
+    "classroom": "光復教學大樓(空大)            53101"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "陳梅香 ",
+    "time": "[3]7~8",
+    "classroom": "歷史系館                      25236"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "仇小屏 ",
+    "time": "[3]7~8",
+    "classroom": "光復教學大樓(空大)            53101"
+  },
+  {
+    "course_name": "基礎國文(古典戲劇)（二）",
+    "teacher_name": "林幸慧 ",
+    "time": "[3]7~8",
+    "classroom": "物理二館                      49X06"
+  },
+  {
+    "course_name": "基礎國文(史傳文學)（二）",
+    "teacher_name": "林美惠 ",
+    "time": "[3]7~8",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "基礎國文(現代詩)（二）",
+    "teacher_name": "萬胥亭 ",
+    "time": "[3]7~8",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "基礎國文(古典詩詞)（二）",
+    "teacher_name": "賴麗娟 ",
+    "time": "[3]7~8",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "基礎國文(現代戲劇)（二）",
+    "teacher_name": "廖玉如 ",
+    "time": "[3]7~8",
+    "classroom": "耐震擴建大樓                  5107"
+  },
+  {
+    "course_name": "基礎國文(古典散文)（二）",
+    "teacher_name": "沈寶春 ",
+    "time": "[3]7~8",
+    "classroom": "耐震擴建大樓                  5108"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "侯美珍 ",
+    "time": "[3]7~8",
+    "classroom": "耐震擴建大樓                  5118"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "李淑如 ",
+    "time": "[3]7~8",
+    "classroom": "唯農大樓                      許文龍講堂"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "李京珮 ",
+    "time": "[3]7~8",
+    "classroom": "耐震擴建大樓                  5127"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "黃潔莉 ",
+    "time": "[3]7~8",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "林耀潾 ",
+    "time": "[4]7~8",
+    "classroom": "資源系館                      4354"
+  },
+  {
+    "course_name": "基礎國文(古典詩詞)（二）",
+    "teacher_name": "賴麗娟 ",
+    "time": "[4]7~8",
+    "classroom": "耐震擴建大樓                  5107"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "陳美朱 ",
+    "time": "[4]7~8",
+    "classroom": "耐震擴建大樓                  5118"
+  },
+  {
+    "course_name": "基礎國文(現代小說)（二）",
+    "teacher_name": "蘇偉貞 ",
+    "time": "[4]7~8",
+    "classroom": "耐震擴建大樓                  5108"
+  },
+  {
+    "course_name": "基礎國文(古典詩詞)（二）",
+    "teacher_name": "林美惠 ",
+    "time": "[4]7~8",
+    "classroom": "耐震擴建大樓                  5117"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "黃聖松 ",
+    "time": "[4]7~8",
+    "classroom": "交管系館                      62205"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "侯美珍 ",
+    "time": "[4]7~8",
+    "classroom": "光復教學大樓(空大)            53101"
+  },
+  {
+    "course_name": "基礎國文(現代小說)（二）",
+    "teacher_name": "蔡玫姿 ",
+    "time": "[4]7~8",
+    "classroom": "物理二館                      49322"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "高美華 ",
+    "time": "[4]7~8",
+    "classroom": "工管系館                      61104"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "王翠玲 ",
+    "time": "[4]7~8",
+    "classroom": "唯農大樓                      7115"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "李淑如 ",
+    "time": "[4]7~8",
+    "classroom": "水利系館                      4625"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "李京珮 ",
+    "time": "[4]7~8",
+    "classroom": "唯農大樓                      許文龍講堂"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "黃潔莉 ",
+    "time": "[4]7~8",
+    "classroom": "工管系館                      61101"
+  },
+  {
+    "course_name": "基礎國文(古典詩詞)（二）",
+    "teacher_name": "高佑仁 ",
+    "time": "[5]7~8",
+    "classroom": "修齊大樓                      26402"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "陳美朱 ",
+    "time": "[5]7~8",
+    "classroom": "耐震擴建大樓                  5118"
+  },
+  {
+    "course_name": "基礎國文(現代小說)（二）",
+    "teacher_name": "蘇偉貞 ",
+    "time": "[5]7~8",
+    "classroom": "社科院大樓                    80105"
+  },
+  {
+    "course_name": "基礎國文(現代小說)（二）",
+    "teacher_name": "蔡玫姿 ",
+    "time": "[5]7~8",
+    "classroom": "物理二館                      49X06"
+  },
+  {
+    "course_name": "基礎國文(綜合文類)（二）",
+    "teacher_name": "李淑如 ",
+    "time": "[5]7~8",
+    "classroom": "耐震擴建大樓                  5117"
+  },
+  {
+    "course_name": "公民與歷史(公民社會)",
+    "teacher_name": "黃清賢 ",
+    "time": "[2]3~4",
+    "classroom": "電機系館                      迅慧講堂"
+  },
+  {
+    "course_name": "公民與歷史(公民社會)",
+    "teacher_name": "彭堅汶 ",
+    "time": "[5]3~4",
+    "classroom": "社科院大樓                    階梯教室-政治"
+  },
+  {
+    "course_name": "公民與歷史(憲政民主體制)",
+    "teacher_name": "孫順智 ",
+    "time": "[2]3~4",
+    "classroom": "資訊系館                      4203"
+  },
+  {
+    "course_name": "公民與歷史(法學緒論)",
+    "teacher_name": "莊輝濤 ",
+    "time": "[2]5~6",
+    "classroom": "資訊系館                      4263"
+  },
+  {
+    "course_name": "公民與歷史(法學緒論)",
+    "teacher_name": "黃清賢 ",
+    "time": "[2]7~8",
+    "classroom": "耐震擴建大樓                  5118"
+  },
+  {
+    "course_name": "公民與歷史(公共管理)",
+    "teacher_name": "黃清賢 ",
+    "time": "[3]5~6",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "公民與歷史(憲政民主體制)",
+    "teacher_name": "潘台雄 ",
+    "time": "[3]5~6",
+    "classroom": "交管系館                      62107"
+  },
+  {
+    "course_name": "公民與歷史(憲政民主體制)",
+    "teacher_name": "黃清賢 ",
+    "time": "[4]1~2",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "公民與歷史(憲政民主體制)",
+    "teacher_name": "黃清賢 ",
+    "time": "[4]5~6",
+    "classroom": "耐震擴建大樓                  5108"
+  },
+  {
+    "course_name": "公民與歷史(司法與人權)",
+    "teacher_name": "黃清賢 ",
+    "time": "[5]3~4",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "公民與歷史(法學緒論)",
+    "teacher_name": "蔡文斌 ",
+    "time": "[4]1~2",
+    "classroom": "雲平大樓                      27103"
+  },
+  {
+    "course_name": "公民與歷史(法學緒論)",
+    "teacher_name": "李君韜 ",
+    "time": "[2]3~4",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "公民與歷史(法學緒論)",
+    "teacher_name": "李君韜 ",
+    "time": "[3]5~6",
+    "classroom": "會計系館                      63404"
+  },
+  {
+    "course_name": "公民與歷史(歷史與文化)",
+    "teacher_name": "蕭瓊瑞 ",
+    "time": "[2]3~4",
+    "classroom": "歷史系館                      振芝講堂"
+  },
+  {
+    "course_name": "公民與歷史(歷史與文化)",
+    "teacher_name": "蘇梅芳 ",
+    "time": "[3]5~6",
+    "classroom": "歷史系館                      25235"
+  },
+  {
+    "course_name": "公民與歷史(文本與歷史)",
+    "teacher_name": "許守泯 ",
+    "time": "[3]5~6",
+    "classroom": "唯農大樓                      許文龍講堂"
+  },
+  {
+    "course_name": "公民與歷史(歷史與文化)",
+    "teacher_name": "張勝柏 ",
+    "time": "[2]3~4",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "公民與歷史(歷史通論)",
+    "teacher_name": "蔡幸娟 ",
+    "time": "[4]1~2",
+    "classroom": "歷史系館                      25235"
+  },
+  {
+    "course_name": "公民與歷史(婦女史)",
+    "teacher_name": "蔡幸娟 ",
+    "time": "[5]3~4",
+    "classroom": "光復教學大樓(空大)            53101"
+  },
+  {
+    "course_name": "公民與歷史(歷史與文化)",
+    "teacher_name": "楊尹瑄 ",
+    "time": "[1]5~6",
+    "classroom": "耐震擴建大樓                  5107"
+  },
+  {
+    "course_name": "公民與歷史(歷史與文化)",
+    "teacher_name": "陳計堯 ",
+    "time": "[3]5~6",
+    "classroom": "耐震擴建大樓                  5107"
+  },
+  {
+    "course_name": "公民與歷史(社會經濟史)",
+    "teacher_name": "高淑媛 ",
+    "time": "[2]5~6",
+    "classroom": "工科系館                      41104"
+  },
+  {
+    "course_name": "公民與歷史(歷史與文化)",
+    "teacher_name": "詹士模 ",
+    "time": "[5]3~4",
+    "classroom": "耐震擴建大樓                  5108"
+  },
+  {
+    "course_name": "公民與歷史(文本與歷史)",
+    "teacher_name": "謝美娥 ",
+    "time": "[2]5~6",
+    "classroom": "地科系館                      3035"
+  },
+  {
+    "course_name": "公民與歷史(歷史與文化)",
+    "teacher_name": "陳梅卿 ",
+    "time": "[2]3~4",
+    "classroom": "耐震擴建大樓                  5107"
+  },
+  {
+    "course_name": "公民與歷史(文本與歷史)",
+    "teacher_name": "王健文 ",
+    "time": "[2]3~4",
+    "classroom": "耐震擴建大樓                  5117"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]2",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[4]1~2",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "各體文選及習作（二）",
+    "teacher_name": "林金泉 ",
+    "time": "[2]3~4",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "各體文選及習作（二）",
+    "teacher_name": "侯美珍 ",
+    "time": "[2]3~4",
+    "classroom": "中文系館                      21208"
+  },
+  {
+    "course_name": "國學導讀（二）",
+    "teacher_name": "王翠玲 ",
+    "time": "[5]3~4",
+    "classroom": "中文系館                      文學院演講廳"
+  },
+  {
+    "course_name": "文學概論（二）",
+    "teacher_name": "陳昌明 ",
+    "time": "[2]1~2",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "文學概論（二）",
+    "teacher_name": "翁文嫻 ",
+    "time": "[3]1~2",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "現代戲劇欣賞及習作（二）",
+    "teacher_name": "廖玉如 ",
+    "time": "[1]2~3",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "現代戲劇欣賞及習作（二）",
+    "teacher_name": "廖玉如 ",
+    "time": "[4]3~4",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "蘇敏逸 ",
+    "time": "[3]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "四書（二）",
+    "teacher_name": "吳文璋 ",
+    "time": "[1]5~6",
+    "classroom": "中文系館                      21201"
+  },
+  {
+    "course_name": "國語語音學",
+    "teacher_name": "陳梅香 ",
+    "time": "[2]5~6",
+    "classroom": "中文系館                      21201"
+  },
+  {
+    "course_name": "日文（二）",
+    "teacher_name": "王翠玲 ",
+    "time": "[3]5~6",
+    "classroom": "中文系館                      21103"
+  },
+  {
+    "course_name": "國畫",
+    "teacher_name": "吳榮富 ",
+    "time": "[4]5~6",
+    "classroom": "中文系館                      21202"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": "修齊大樓                      26402"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[4]1~2",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "修齊大樓                      26402"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "閔慧慈 ",
+    "time": "[4]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（二）",
+    "teacher_name": "陳慧琴 ",
+    "time": "[1]5~6[3]1",
+    "classroom": "修齊大樓                      26425"
+  },
+  {
+    "course_name": "西洋文學概論（二）",
+    "teacher_name": "游素玲 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "修齊大樓                      26425"
+  },
+  {
+    "course_name": "語言學概論（二）",
+    "teacher_name": "李惠琦 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "修齊大樓                      26425"
+  },
+  {
+    "course_name": "英語口語訓練（一）（下）",
+    "teacher_name": "高實玫 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "修齊大樓                      26405"
+  },
+  {
+    "course_name": "英語口語訓練（一）（下）",
+    "teacher_name": "陳昭芳 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "修齊大樓                      26403"
+  },
+  {
+    "course_name": "英語口語訓練（一）（下）",
+    "teacher_name": "廖培真 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "修齊大樓                      26421"
+  },
+  {
+    "course_name": "英語口語訓練（一）（下）",
+    "teacher_name": "游素玲 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "修齊大樓                      26401"
+  },
+  {
+    "course_name": "英文作文（二）",
+    "teacher_name": "王穎 ",
+    "time": "[2]3~4[5]1",
+    "classroom": "修齊大樓                      26401"
+  },
+  {
+    "course_name": "英文作文（二）",
+    "teacher_name": "賴俊雄 ",
+    "time": "[2]3~4[5]1",
+    "classroom": "修齊大樓                      26406"
+  },
+  {
+    "course_name": "英文作文（二）",
+    "teacher_name": "廖培真 ",
+    "time": "[2]3~4[5]1",
+    "classroom": "修齊大樓                      26421"
+  },
+  {
+    "course_name": "英文作文（二）",
+    "teacher_name": "陳世威 ",
+    "time": "[2]3~4[5]1",
+    "classroom": "修齊大樓                      26423"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "歷史系館                      25235"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "世界文化史（二）",
+    "teacher_name": "李鑑慧 ",
+    "time": "[2]2~4",
+    "classroom": "歷史系館                      25235"
+  },
+  {
+    "course_name": "世界文化史（二）",
+    "teacher_name": "楊尹瑄 ",
+    "time": "[2]2~4",
+    "classroom": "歷史系館                      25236"
+  },
+  {
+    "course_name": "中國通史（二）",
+    "teacher_name": "蔡幸娟 ",
+    "time": "[1]2~3[4]4",
+    "classroom": "歷史系館                      25235"
+  },
+  {
+    "course_name": "台灣史（二）",
+    "teacher_name": "林德政 ",
+    "time": "[4]6~8",
+    "classroom": "歷史系館                      25235"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": "光復教學大樓(空大)            53101"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4[5]2",
+    "classroom": ""
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[4]1~2",
+    "classroom": "光復教學大樓(空大)            53101"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "施懿琳 ",
+    "time": "[3]N",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "文學文本解讀",
+    "teacher_name": "簡義明 ",
+    "time": "[2]7~9",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "台灣語言基礎及寫作（台語）（二）",
+    "teacher_name": "蔣為文 ",
+    "time": "[2]5~6",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "台灣語言基礎及寫作（原住民語）（二）",
+    "teacher_name": "阿諾伊斯巴 ",
+    "time": "[5]3~4",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "台灣語言基礎及寫作（客語）（二）",
+    "teacher_name": "曾昌發 ",
+    "time": "[1]7~8",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "文化與社會基本議題",
+    "teacher_name": "鍾秀梅 ",
+    "time": "[4]7~9",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "現代小說（二）",
+    "teacher_name": "劉乃慈 ",
+    "time": "[4]3~4",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "台灣的自然與傳統宗教",
+    "teacher_name": "陳玉峯 ",
+    "time": "[3]5~6",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "影像美學與攝影實務",
+    "teacher_name": "曾吉賢 ",
+    "time": "[3]9~A",
+    "classroom": "台文系館                      88154"
+  },
+  {
+    "course_name": "口述歷史劇場",
+    "teacher_name": "呂毅新 ",
+    "time": "[4]5~6",
+    "classroom": "台文系館                      88136"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉珈銘 ",
+    "time": "[1]2~3[3]5~6",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "微積分實習（二）",
+    "teacher_name": "劉珈銘 ",
+    "time": "[3]N",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "線性代數（一）",
+    "teacher_name": "楊世偉 ",
+    "time": "[3]2[5]3~4",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "線性代數實習（一）",
+    "teacher_name": "楊世偉 ",
+    "time": "[3]1",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "田興龍 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "計算機概論與程式語言",
+    "teacher_name": "沈士育 ",
+    "time": "[2]2[5]1~2",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "劉珈銘 ",
+    "time": "[1]N",
+    "classroom": "數學系館                      3172"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6[4]1",
+    "classroom": "物理二館                      49312"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "物理二館                      49X06"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[1]2~3[3]6",
+    "classroom": "理化大樓                      格致廳小講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[3]5",
+    "classroom": "物理二館                      49323"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林　牛 ",
+    "time": "[3]5",
+    "classroom": "物理二館                      49312"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "連文璟 ",
+    "time": "[3]5",
+    "classroom": "綜合大樓                      48424"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "侯世章 ",
+    "time": "[3]5",
+    "classroom": "綜合大樓                      48312"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "羅光耀 ",
+    "time": "[4]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "黃福永*蔡惠蓮 施良垣 ",
+    "time": "[2]1~2[5]3~4",
+    "classroom": "資訊大樓                      格致廳大講堂"
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "蔡惠蓮 ",
+    "time": "[3]2~4",
+    "classroom": "理化大樓                      35121"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "陳岳男 ",
+    "time": "[2]3~4[4]3~4",
+    "classroom": "物理二館                      49X04"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "物理二館                      49X06"
+  },
+  {
+    "course_name": "物理數學（一）",
+    "teacher_name": "陳泉宏 ",
+    "time": "[3]1[5]5~6",
+    "classroom": "物理二館                      49X06"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳岳男 ",
+    "time": "[5]0",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "化學系館                      3275"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6[4]1",
+    "classroom": "化學系館                      3275"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "化學系館                      3275"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "鄺國權 ",
+    "time": "[1]2~3[3]6",
+    "classroom": "電機系館                      迅慧講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "鄺國權 ",
+    "time": "[3]5",
+    "classroom": "地科系館                      3031"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳若淳 ",
+    "time": "[3]5",
+    "classroom": "地科系館                      研討室一"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[3]5",
+    "classroom": "化學系館                      3274"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "楊世偉 ",
+    "time": "[3]5",
+    "classroom": "化學系館                      3268"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "蘇漢宗 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "化學系館                      3275"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "游輝樟 ",
+    "time": "[5]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "黃福永*蔡惠蓮 施良垣 ",
+    "time": "[2]1~2[5]3~4",
+    "classroom": "資訊大樓                      格致廳大講堂"
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "孫亦文 ",
+    "time": "[3]2~4",
+    "classroom": "理化大樓                      35102"
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "蘇世剛 ",
+    "time": "[3]2~4",
+    "classroom": "理化大樓                      35122"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "化學系館                      3275"
+  },
+  {
+    "course_name": "化學數學",
+    "teacher_name": "蘇世剛 ",
+    "time": "[3]1[4]3~4",
+    "classroom": "化學系館                      3275"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "許拱北 ",
+    "time": "[4]N",
+    "classroom": "化學系館                      3275"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "地科系館                      3035"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6[4]1",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "地科系館                      3035"
+  },
+  {
+    "course_name": "地球科學概論（二）",
+    "teacher_name": "龔慧貞*林冠瑋 ",
+    "time": "[4]3~4[5]2",
+    "classroom": "理化大樓                      格致廳小講堂"
+  },
+  {
+    "course_name": "地球科學概論實習（二）",
+    "teacher_name": "龔慧貞 林冠瑋*",
+    "time": "[3]2~4",
+    "classroom": "地科系館                      3017"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "許瑞榮 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "物理二館                      49X06"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "許瑞榮 ",
+    "time": "[5]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "黃福永*蔡惠蓮 施良垣 ",
+    "time": "[2]1~2[5]3~4",
+    "classroom": "資訊大樓                      格致廳大講堂"
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "黃福永 ",
+    "time": "[4]5~7",
+    "classroom": "理化大樓                      35122"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "鄺國權 ",
+    "time": "[1]2~3[3]6",
+    "classroom": "電機系館                      迅慧講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "鄺國權 ",
+    "time": "[3]5",
+    "classroom": "地科系館                      3031"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳若淳 ",
+    "time": "[3]5",
+    "classroom": "地科系館                      研討室一"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[3]5",
+    "classroom": "化學系館                      3274"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "楊世偉 ",
+    "time": "[3]5",
+    "classroom": "化學系館                      3268"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "饒瑞鈞 ",
+    "time": "[4]8",
+    "classroom": "地科系館                      研討室一"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]2[5]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": "K館後棟圖書部上方             81206"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "李佳榮 ",
+    "time": "[1]5[3]3~4",
+    "classroom": "綜合大樓                      48312"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "許瑞榮 ",
+    "time": "[4]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[1]2~3[3]6",
+    "classroom": "理化大樓                      格致廳小講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[3]5",
+    "classroom": "物理二館                      49323"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林　牛 ",
+    "time": "[3]5",
+    "classroom": "物理二館                      49312"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "連文璟 ",
+    "time": "[3]5",
+    "classroom": "綜合大樓                      48424"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "侯世章 ",
+    "time": "[3]5",
+    "classroom": "綜合大樓                      48312"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "藍永強 ",
+    "time": "[4]1",
+    "classroom": "綜合大樓                      48314"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "林俊宏 ",
+    "time": "[4]2~4",
+    "classroom": "資訊大樓                      75209"
+  },
+  {
+    "course_name": "工程數學（一）",
+    "teacher_name": "曾碩彥 ",
+    "time": "[3]2[5]5~6",
+    "classroom": "綜合大樓                      48424"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "郭宗枋 ",
+    "time": "[1]6[2]7~8",
+    "classroom": "綜合大樓                      48312"
+  },
+  {
+    "course_name": "電路學",
+    "teacher_name": "黃勝廣 ",
+    "time": "[3]7~9",
+    "classroom": "綜合大樓                      48312"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "機械系館                      91303"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "機械系館                      91303"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "機械系館                      91303"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": "機械系館                      91303"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "羅裕龍 ",
+    "time": "[1]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "侯世章 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "機械系館                      俊銘講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "侯世章 ",
+    "time": "[4]1",
+    "classroom": "機械系館                      91206"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "方永富 ",
+    "time": "[4]1",
+    "classroom": "機械系館                      91207"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃柏嶧 ",
+    "time": "[4]1",
+    "classroom": "機械系館                      91303"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉育佑 ",
+    "time": "[4]1",
+    "classroom": "機械系館                      91102"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "張烈錚 ",
+    "time": "[1]8[4]5~6",
+    "classroom": "機械系館                      91303"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "張烈錚 ",
+    "time": "[1]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "工程圖學（二）",
+    "teacher_name": "李汶樺 ",
+    "time": "[5]5",
+    "classroom": "機械系館                      91602"
+  },
+  {
+    "course_name": "工程圖學（二）",
+    "teacher_name": "李汶樺 ",
+    "time": "[5]6~8",
+    "classroom": "機械系館                      91602"
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "李汶樺 ",
+    "time": "[1]2~3",
+    "classroom": "機械系館                      91303"
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "李汶樺 ",
+    "time": "[3]2~4",
+    "classroom": "機械系館                      91602"
+  },
+  {
+    "course_name": "應用力學（二）",
+    "teacher_name": "張怡玲 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "機械系館                      91303"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "機械系館                      91305"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "機械系館                      91305"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "機械系館                      91305"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": "機械系館                      91305"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "羅裕龍 ",
+    "time": "[3]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "吳忠霖 ",
+    "time": "[1]8[4]5~6",
+    "classroom": "機械系館                      91305"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "吳忠霖 ",
+    "time": "[1]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "工程圖學（二）",
+    "teacher_name": "林昌進 ",
+    "time": "[5]7",
+    "classroom": "機械系館                      91305"
+  },
+  {
+    "course_name": "工程圖學（二）",
+    "teacher_name": "林昌進 ",
+    "time": "[5]8[5]9~A",
+    "classroom": "機械系館                      91305 , 機械系館                      91602"
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "方晶晶 ",
+    "time": "[1]2~3",
+    "classroom": "機械系館                      91305"
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "方晶晶 ",
+    "time": "[2]5~7",
+    "classroom": "機械系館                      91602"
+  },
+  {
+    "course_name": "應用力學（二）",
+    "teacher_name": "朱銘祥 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "機械系館                      91305"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳旻宏 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "化工系館                      柏林講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳旻宏 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93422"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "楊世偉 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93356"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "史習偉 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93223"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "儀器設備大樓                  95703"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "機械系館                      91308"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "機械系館                      91308"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": "機械系館                      91308"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "羅裕龍 ",
+    "time": "[5]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "唐富欽 ",
+    "time": "[1]8[4]5~6",
+    "classroom": "機械系館                      91202"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "蔡錦俊 ",
+    "time": "[1]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "工程圖學（二）",
+    "teacher_name": "吳博雄 ",
+    "time": "[2]6",
+    "classroom": "機械系館                      91203"
+  },
+  {
+    "course_name": "工程圖學（二）",
+    "teacher_name": "吳博雄 ",
+    "time": "[2]7~9",
+    "classroom": "機械系館                      91203"
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "施士塵 ",
+    "time": "[5]3~4",
+    "classroom": "機械系館                      91308"
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "施士塵 ",
+    "time": "[3]7~9",
+    "classroom": "機械系館                      91602"
+  },
+  {
+    "course_name": "應用力學（二）",
+    "teacher_name": "陳國聲 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "機械系館                      91205"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "化工系館                      93223"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "化工系館                      93223"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8",
+    "classroom": "化工系館                      93223"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "化工系館                      柏林講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "章源慶 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "化工系館                      93322"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "章源慶 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93352"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳若淳 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93156"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林　牛 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93256"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳重弘 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93316"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "陳寬任 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "化工系館                      93223"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "張為民 ",
+    "time": "[2]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "許鏵芬*李介仁 施良垣 ",
+    "time": "[1]2~3[3]1~2",
+    "classroom": "資訊大樓                      格致廳大講堂"
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "宋光生 ",
+    "time": "[1]5~7",
+    "classroom": "理化大樓                      35122"
+  },
+  {
+    "course_name": "質能均衡",
+    "teacher_name": "王　紀 ",
+    "time": "[5]5~7",
+    "classroom": "化工系館                      93223"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "張珏庭 ",
+    "time": "[3]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "化工系館                      93156"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "化工系館                      93256"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8",
+    "classroom": "化工系館                      93256"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "田興龍 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "化工系館                      93156"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "羅光耀 ",
+    "time": "[2]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "許鏵芬 ",
+    "time": "[1]5~7",
+    "classroom": "理化大樓                      35121"
+  },
+  {
+    "course_name": "質能均衡",
+    "teacher_name": "張嘉修 ",
+    "time": "[3]3~4[4]9",
+    "classroom": "化工系館                      93256"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "邱繼正 ",
+    "time": "[2]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "唐富欽 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "呂欽山 ",
+    "time": "[2]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "林榮良 ",
+    "time": "[5]5~7",
+    "classroom": "理化大樓                      35102"
+  },
+  {
+    "course_name": "質能均衡",
+    "teacher_name": "楊明長 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳旻宏 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "化工系館                      柏林講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳旻宏 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93252"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93422"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "楊世偉 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93356"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "史習偉 ",
+    "time": "[4]1",
+    "classroom": "化工系館                      93223"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳慧英 ",
+    "time": "[4]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "資源系館                      4351"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "資源系館                      4353"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]8",
+    "classroom": "資源系館                      4353"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[4]1~2",
+    "classroom": "資源系館                      4353"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "地質學",
+    "teacher_name": "余騰鐸 ",
+    "time": "[3]8[5]5~6",
+    "classroom": "資源系館                      4353"
+  },
+  {
+    "course_name": "地質學",
+    "teacher_name": "余騰鐸 ",
+    "time": "[3]5~7",
+    "classroom": "資源系館                      4301"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃柏嶧 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃柏嶧 ",
+    "time": "[3]1",
+    "classroom": "環工系館                      47111"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李春得 ",
+    "time": "[3]1",
+    "classroom": "數學系館                      3173"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[3]1",
+    "classroom": "資源系館                      4353"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉珈銘 ",
+    "time": "[3]1",
+    "classroom": "資源系館                      4351"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "陳泳帆 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "資源系館                      4353"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "梁永成 ",
+    "time": "[5]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "林榮良*吳耀庭 ",
+    "time": "[1]7~8[4]5~6",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "許桂芳 ",
+    "time": "[2]2~4",
+    "classroom": "理化大樓                      35102"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳偉聖 ",
+    "time": "[5]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": "資源系館                      4353"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "材料新館                      44201"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "材料新館                      44302"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]8",
+    "classroom": "材料新館                      44302"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "材料新館                      44203"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6",
+    "classroom": "材料新館                      44124"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "材料新館                      44124"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]8",
+    "classroom": "材料新館                      44124"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "連文璟 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "唯農大樓                      許文龍講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "連文璟 ",
+    "time": "[3]1",
+    "classroom": "唯農大樓                      7104"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李國明 ",
+    "time": "[3]1",
+    "classroom": "唯農大樓                      7102"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "粘珠鳳 ",
+    "time": "[3]1",
+    "classroom": "唯農大樓                      7106"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "呂欽山 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "物理二館                      49X06"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "陳則銘 ",
+    "time": "[5]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "許桂芳*蘇世剛 ",
+    "time": "[1]7~8[4]5~6",
+    "classroom": "理化大樓                      格致廳小講堂"
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "孫亦文 ",
+    "time": "[3]5~7",
+    "classroom": "理化大樓                      35122"
+  },
+  {
+    "course_name": "材料工程力學",
+    "teacher_name": "洪飛義 ",
+    "time": "[3]8[5]5~6",
+    "classroom": "材料新館                      44201"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "丁志明 ",
+    "time": "[2]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6",
+    "classroom": "材料新館                      44122"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "蔡永東 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "物理二館                      49116"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "楊緒濃 ",
+    "time": "[5]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "蘇世剛 ",
+    "time": "[3]5~7",
+    "classroom": "理化大樓                      35121"
+  },
+  {
+    "course_name": "材料工程力學",
+    "teacher_name": "郭瑞昭 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "材料新館                      44122"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "丁志明 ",
+    "time": "[5]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "沈士育 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "土木系館                      47X52"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "沈士育 ",
+    "time": "[3]1",
+    "classroom": "土木系館                      4509"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "夏　杼 ",
+    "time": "[3]1",
+    "classroom": "土木系館                      4504"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "侯世章 ",
+    "time": "[3]1",
+    "classroom": "土木系館                      4503"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "土木系館                      4501"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "鄭　靜 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "土木系館                      4501"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "楊緒濃 ",
+    "time": "[3]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6",
+    "classroom": "土木系館                      4501"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6[5]8",
+    "classroom": "土木系館                      4501"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": "土木系館                      4501"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "工程圖學（二）",
+    "teacher_name": "賴啟銘 ",
+    "time": "[5]5~7",
+    "classroom": "土木系館                      4509"
+  },
+  {
+    "course_name": "應用力學",
+    "teacher_name": "顏崇斌 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "土木系館                      4505"
+  },
+  {
+    "course_name": "計算機應用",
+    "teacher_name": "李宇欣 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "土木系館                      4501"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳景文 ",
+    "time": "[2]9",
+    "classroom": "土木系館                      4507"
+  },
+  {
+    "course_name": "土木工程實作設計",
+    "teacher_name": "蔡錦松 ",
+    "time": "[3]9",
+    "classroom": "土木系館                      4503"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "土木系館                      4502"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "田興龍 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "土木系館                      4502"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "黃文宏 ",
+    "time": "[3]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6",
+    "classroom": "土木系館                      4502"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6[5]8",
+    "classroom": "土木系館                      4502"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": "土木系館                      4502"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "工程圖學（二）",
+    "teacher_name": "賴啟銘 ",
+    "time": "[1]7~9",
+    "classroom": "土木系館                      4509"
+  },
+  {
+    "course_name": "應用力學",
+    "teacher_name": "王雲哲 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "土木系館                      4502"
+  },
+  {
+    "course_name": "計算機應用",
+    "teacher_name": "王永明 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "土木系館                      4509"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳景文 ",
+    "time": "[4]9",
+    "classroom": "土木系館                      4507"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "郭鴻文 ",
+    "time": "[2]5~6[5]3",
+    "classroom": "水利系館                      4671"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "郭鴻文 ",
+    "time": "[5]4",
+    "classroom": "水利系館                      4627"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "洪英志 ",
+    "time": "[5]4",
+    "classroom": "航太系館                      5827"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "沈士育 ",
+    "time": "[5]4",
+    "classroom": "航太系館                      5829"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "史習偉 ",
+    "time": "[5]4",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "楊毅 ",
+    "time": "[1]8[4]5~6",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "楊毅 ",
+    "time": "[3]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "水文學",
+    "teacher_name": "孫建平 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "周乃昉 ",
+    "time": "[1]N",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "水利工程畫",
+    "teacher_name": "賴悅仁 ",
+    "time": "[1]9",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "水利工程畫",
+    "teacher_name": "賴悅仁 ",
+    "time": "[1]5~7",
+    "classroom": "資訊大樓                      75209"
+  },
+  {
+    "course_name": "計算機程式",
+    "teacher_name": "呂珍謀 ",
+    "time": "[1]2~3",
+    "classroom": "水利系館                      4629"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6[4]1",
+    "classroom": "工科系館                      41102"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "近代物理",
+    "teacher_name": "盧炎田 ",
+    "time": "[1]8[4]5~6",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "夏　杼 ",
+    "time": "[2]5~6[5]7",
+    "classroom": "機械系館                      俊銘講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "夏　杼 ",
+    "time": "[5]8",
+    "classroom": "系統系館                      56226"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "王辰樹 ",
+    "time": "[5]8",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃世昌 ",
+    "time": "[5]8",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉育佑 ",
+    "time": "[5]8",
+    "classroom": "工科系館                      41102"
+  },
+  {
+    "course_name": "工程動力學",
+    "teacher_name": "李輝煌 ",
+    "time": "[4]2~4",
+    "classroom": "工科系館                      41107"
+  },
+  {
+    "course_name": "程式設計",
+    "teacher_name": "王宗一 ",
+    "time": "[1]3[2]7~8",
+    "classroom": "工科系館                      41104"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "廖德祿 ",
+    "time": "[3]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "線性代數",
+    "teacher_name": "廖德祿 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "工科系館                      41103"
+  },
+  {
+    "course_name": "工程科學暨創新概論",
+    "teacher_name": "莊哲男 ",
+    "time": "[2]3~4",
+    "classroom": "工科系館                      41104"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "動力學",
+    "teacher_name": "楊世銘 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "航太系館                      繼昌講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉之中 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "航太系館                      5825"
+  },
+  {
+    "course_name": "電腦輔助設計",
+    "teacher_name": "夏育群 ",
+    "time": "[4]2~4",
+    "classroom": "航太系館                      5898"
+  },
+  {
+    "course_name": "工程材料科學",
+    "teacher_name": "陳維新 ",
+    "time": "[3]5~7",
+    "classroom": "航太系館                      5825"
+  },
+  {
+    "course_name": "能源科技概論（二）",
+    "teacher_name": "李約亨 ",
+    "time": "[4]6",
+    "classroom": "航太系館                      繼昌講堂"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6[4]1",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學實驗",
+    "teacher_name": "黃福永 ",
+    "time": "[5]5~7",
+    "classroom": "理化大樓                      35121"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "夏育群 ",
+    "time": "[3]9",
+    "classroom": "航太系館                      5834"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "系統及船舶機電概論",
+    "teacher_name": "陳政宏 沈聖智*",
+    "time": "[1]5~6",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "夏　杼 ",
+    "time": "[2]5~6[5]7",
+    "classroom": "機械系館                      俊銘講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "夏　杼 ",
+    "time": "[5]8",
+    "classroom": "系統系館                      56226"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "王辰樹 ",
+    "time": "[5]8",
+    "classroom": "工科系館                      41101"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃世昌 ",
+    "time": "[5]8",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉育佑 ",
+    "time": "[5]8",
+    "classroom": "工科系館                      41102"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "蔡永東 ",
+    "time": "[1]8[4]5~6",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "吳忠霖 ",
+    "time": "[4]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "應用力學（一）",
+    "teacher_name": "林忠宏 ",
+    "time": "[2]3~4",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "涂季平 ",
+    "time": "[1]7",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "C++程式語言設計",
+    "teacher_name": "李坤洲 ",
+    "time": "[1]1~3",
+    "classroom": "系統系館                      56111"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "航太系館                      繼昌講堂"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "航太系館                      5829"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "航太系館                      5830"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "夏育群 ",
+    "time": "[1]9",
+    "classroom": "航太系館                      5834"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "夏育群 ",
+    "time": "[4]9",
+    "classroom": "航太系館                      5834"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "郭鴻文 ",
+    "time": "[2]5~6[5]3",
+    "classroom": "水利系館                      4671"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "郭鴻文 ",
+    "time": "[5]4",
+    "classroom": "水利系館                      4627"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "洪英志 ",
+    "time": "[5]4",
+    "classroom": "航太系館                      5827"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "沈士育 ",
+    "time": "[5]4",
+    "classroom": "航太系館                      5829"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "史習偉 ",
+    "time": "[5]4",
+    "classroom": "水利系館                      4620"
+  },
+  {
+    "course_name": "工程材料科學",
+    "teacher_name": "鄭泗滄 ",
+    "time": "[1]5~6[3]7",
+    "classroom": "航太系館                      5830"
+  },
+  {
+    "course_name": "動力學",
+    "teacher_name": "林穎裕 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "航太系館                      5825"
+  },
+  {
+    "course_name": "機械畫",
+    "teacher_name": "王偉成 ",
+    "time": "[2]7~9",
+    "classroom": "航太系館                      5898"
+  },
+  {
+    "course_name": "機械畫",
+    "teacher_name": "王偉成 ",
+    "time": "[5]5~7",
+    "classroom": "航太系館                      5898"
+  },
+  {
+    "course_name": "能源科技概論（二）",
+    "teacher_name": "李約亨 ",
+    "time": "[4]6",
+    "classroom": "航太系館                      繼昌講堂"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": "航太系館                      5824"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "環工系館                      47111"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6[5]8",
+    "classroom": "環工系館                      47111"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[4]1~2",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃柏嶧 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃柏嶧 ",
+    "time": "[3]1",
+    "classroom": "環工系館                      47111"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李春得 ",
+    "time": "[3]1",
+    "classroom": "數學系館                      3173"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[3]1",
+    "classroom": "資源系館                      4353"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉珈銘 ",
+    "time": "[3]1",
+    "classroom": "資源系館                      4351"
+  },
+  {
+    "course_name": "普通物理學",
+    "teacher_name": "游輝樟 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "環工系館                      47111"
+  },
+  {
+    "course_name": "普通物理學實驗",
+    "teacher_name": "游輝樟 ",
+    "time": "[3]5~7",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學（二）",
+    "teacher_name": "林榮良*吳耀庭 ",
+    "time": "[1]7~8[4]5~6",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "普通化學實驗（二）",
+    "teacher_name": "吳耀庭 ",
+    "time": "[2]2~4",
+    "classroom": "理化大樓                      35121"
+  },
+  {
+    "course_name": "計算機語言",
+    "teacher_name": "張智華 ",
+    "time": "[5]3~4",
+    "classroom": "環工系館                      47111"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "李文智 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": "環工系館                      47111"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": "測量系館                      55150"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "測量系館                      55150"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8",
+    "classroom": "測量系館                      55150"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": "測量系館                      55250"
+  },
+  {
+    "course_name": "基礎測量學（二）",
+    "teacher_name": "曾義星 ",
+    "time": "[2]7~8",
+    "classroom": "測量系館                      55250"
+  },
+  {
+    "course_name": "基礎測量學實習（二）",
+    "teacher_name": "曾義星 ",
+    "time": "[3]6~8",
+    "classroom": "測量系館                      55250"
+  },
+  {
+    "course_name": "基礎測量學實習（二）",
+    "teacher_name": "曾義星 ",
+    "time": "[4]2~4",
+    "classroom": "測量系館                      55250"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃世昌 ",
+    "time": "[2]5~6[5]3",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃世昌 ",
+    "time": "[5]4",
+    "classroom": "測量系館                      55250"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林景隆 ",
+    "time": "[5]4",
+    "classroom": "醫技醫工館                    5730"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "鄺國權 ",
+    "time": "[5]4",
+    "classroom": "數學系館                      3174"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "唐富欽 ",
+    "time": "[2]2[5]1~2",
+    "classroom": "測量系館                      55250"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "梁永成 ",
+    "time": "[3]1~3",
+    "classroom": "理化大樓                      普物實驗室"
+  },
+  {
+    "course_name": "計算機程式設計",
+    "teacher_name": "呂學展 ",
+    "time": "[1]1~3",
+    "classroom": "測量系館                      55250"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "江凱偉 ",
+    "time": "[2]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]1",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通化學實驗",
+    "teacher_name": "施良垣 ",
+    "time": "[5]5~7",
+    "classroom": "理化大樓                      35122"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃世昌 ",
+    "time": "[2]5~6[5]3",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃世昌 ",
+    "time": "[5]4",
+    "classroom": "測量系館                      55250"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林景隆 ",
+    "time": "[5]4",
+    "classroom": "醫技醫工館                    5730"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "鄺國權 ",
+    "time": "[5]4",
+    "classroom": "數學系館                      3174"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "朱淑君 ",
+    "time": "[2]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "呂佳諭 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "唯農大樓                      7213"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通生物學",
+    "teacher_name": "胡書榕 邱文泰*",
+    "time": "[4]7~9",
+    "classroom": "社科院大樓                    80201"
+  },
+  {
+    "course_name": "程式語言",
+    "teacher_name": "方佑華 ",
+    "time": "[2]7~9",
+    "classroom": "醫技醫工館                    5725"
+  },
+  {
+    "course_name": "醫學工程導論(Ⅱ)",
+    "teacher_name": "陳家進 陳天送 張憲彰 張志涵 葉明龍 胡晉嘉 鄭國順 蘇芳慶 莊漢聲 邱文泰 黃執中*",
+    "time": "[5]1",
+    "classroom": "醫技醫工館                    5730"
+  },
+  {
+    "course_name": "醫學工程實驗",
+    "teacher_name": "陳家進 張憲彰 張志涵 葉明龍 胡晉嘉*蘇芳慶 莊漢聲 邱文泰 黃執中 ",
+    "time": "[4]2~4",
+    "classroom": "醫技醫工館                    5730"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "胡晉嘉 黃執中*",
+    "time": "[3]1",
+    "classroom": "醫技醫工館                    5730"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]3~4",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "會計系館                      63404"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "初級會計學（二）",
+    "teacher_name": "林囿成 ",
+    "time": "[2]2~4",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "初級會計學（二）",
+    "teacher_name": "林囿成 ",
+    "time": "[5]1~2",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "經濟學（二）",
+    "teacher_name": "伍弘歷 ",
+    "time": "[2]7~9",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "吳鐵肩 ",
+    "time": "[3]7~9",
+    "classroom": "統計系館                      62115"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "顏盟峯 ",
+    "time": "[1]9",
+    "classroom": "會計系館                      63101"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]3~4",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[4]1~2",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "統計學（二）",
+    "teacher_name": "溫敏杰 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳瑞彬 ",
+    "time": "[1]5~6[3]7",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "線性代數（二）",
+    "teacher_name": "張升懋 ",
+    "time": "[3]3~4",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "經濟學（二）",
+    "teacher_name": "林常青 ",
+    "time": "[4]7~9",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "趙昌泰 ",
+    "time": "[3]N",
+    "classroom": "統計系館                      62223"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "工管系館                      61104"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]5~6",
+    "classroom": "工管系館                      61104"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]1",
+    "classroom": "工管系館                      61104"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "史習偉 ",
+    "time": "[3]7~8[5]6",
+    "classroom": "工管系館                      61200"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "史習偉 ",
+    "time": "[5]5",
+    "classroom": "交管系館                      62205"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "郭鴻文 ",
+    "time": "[5]5",
+    "classroom": "交管系館                      62105"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "蕭仁傑 ",
+    "time": "[5]5",
+    "classroom": "工管系館                      61208"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳旻宏 ",
+    "time": "[5]5",
+    "classroom": "工管系館                      61102"
+  },
+  {
+    "course_name": "經濟學（二）",
+    "teacher_name": "蔡仰虔 ",
+    "time": "[5]7~9",
+    "classroom": "工管系館                      61101"
+  },
+  {
+    "course_name": "資訊管理概論",
+    "teacher_name": "呂執中 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "工管系館                      61101"
+  },
+  {
+    "course_name": "計算機程式及應用",
+    "teacher_name": "劉任修 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "工管系館                      61101"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": "工管系館                      61104"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "李昇暾 ",
+    "time": "[3]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "企管系館                      62218"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]3~4",
+    "classroom": "企管系館                      62218"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1",
+    "classroom": "企管系館                      62218"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "企管系館                      62218"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "呂金河 ",
+    "time": "[3]2~4",
+    "classroom": "企管系館                      62335"
+  },
+  {
+    "course_name": "會計學（二）",
+    "teacher_name": "陳政芳 ",
+    "time": "[4]7~9",
+    "classroom": "企管系館                      62335"
+  },
+  {
+    "course_name": "經濟學（二）",
+    "teacher_name": "楊澤泉 ",
+    "time": "[2]2~4",
+    "classroom": "企管系館                      62335"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "企管系館                      62218"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "史習安 ",
+    "time": "[1]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "企業概論",
+    "teacher_name": "東惠瑛 ",
+    "time": "[5]2~4",
+    "classroom": "企管系館                      62218"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "交管系館                      62107"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[3]5~6",
+    "classroom": "交管系館                      62107"
+  },
+  {
+    "course_name": "經濟學（二）",
+    "teacher_name": "廖俊雄 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "交管系館                      62109"
+  },
+  {
+    "course_name": "運輸學（二）",
+    "teacher_name": "黃光渠 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "交管系館                      62107"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "史習偉 ",
+    "time": "[3]7~8[5]6",
+    "classroom": "工管系館                      61200"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "史習偉 ",
+    "time": "[5]5",
+    "classroom": "交管系館                      62205"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "郭鴻文 ",
+    "time": "[5]5",
+    "classroom": "交管系館                      62105"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "蕭仁傑 ",
+    "time": "[5]5",
+    "classroom": "工管系館                      61208"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳旻宏 ",
+    "time": "[5]5",
+    "classroom": "工管系館                      61102"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "交管系館                      62205"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "胡大瀛 ",
+    "time": "[3]1",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "會計學（二）",
+    "teacher_name": "謝喻婷 ",
+    "time": "[2]6~8",
+    "classroom": "交管系館                      62107"
+  },
+  {
+    "course_name": "計算機程式",
+    "teacher_name": "林東盈 ",
+    "time": "[4]7~9",
+    "classroom": "交管系館                      62102"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "醫學院                        304D"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "護理系館                      85X09"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": "醫學院                        303D"
+  },
+  {
+    "course_name": "人類發展學（含實習）",
+    "teacher_name": "陳靜敏*周承珍 張烱心 ",
+    "time": "[3]1~2",
+    "classroom": "護理系館                      85X09"
+  },
+  {
+    "course_name": "人類發展學（含實習）",
+    "teacher_name": "陳靜敏*周承珍 ",
+    "time": "[3]3~4",
+    "classroom": "護理系館                      85X09"
+  },
+  {
+    "course_name": "生理學",
+    "teacher_name": "吳豐森*楊尚訓 顏賢章 陳珮君 張雅雯 ",
+    "time": "[1]2[5]3~4",
+    "classroom": "醫學院                        第一講堂"
+  },
+  {
+    "course_name": "心理學",
+    "teacher_name": "游一龍*郭乃文 黃惠玲 余睿羚 ",
+    "time": "[4]7~8[4]4",
+    "classroom": "醫學院                        第四講堂"
+  },
+  {
+    "course_name": "健康促進與健康生活營造",
+    "teacher_name": "王琪珍*",
+    "time": "[4]1~2",
+    "classroom": "護理系館                      85X09"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "王靜枝*",
+    "time": "[1]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "醫學院                        307"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "分析化學含實驗",
+    "teacher_name": "張權發 ",
+    "time": "[4]1~2",
+    "classroom": "醫技醫工館                    5777"
+  },
+  {
+    "course_name": "分析化學含實驗",
+    "teacher_name": "黃暉升 ",
+    "time": "[4]3~4",
+    "classroom": "醫技醫工館                    5792"
+  },
+  {
+    "course_name": "細胞生物學",
+    "teacher_name": "傅子芳*",
+    "time": "[1]5~6",
+    "classroom": "醫技醫工館                    5761"
+  },
+  {
+    "course_name": "普通物理學",
+    "teacher_name": "盧炎田 ",
+    "time": "[2]2[3]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳百昇 ",
+    "time": "[2]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[1]2~3",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[3]2",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林　牛 ",
+    "time": "[3]2",
+    "classroom": "醫學院                        物治207"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "洪英志 ",
+    "time": "[3]2",
+    "classroom": "醫技醫工館                    5777"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳重弘 ",
+    "time": "[3]2",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "王辰樹 ",
+    "time": "[3]2",
+    "classroom": "醫學院                        604"
+  },
+  {
+    "course_name": "專題研究導論",
+    "teacher_name": "王貞仁 ",
+    "time": "[4]7",
+    "classroom": "醫技醫工館                    5776"
+  },
+  {
+    "course_name": "醫用台語（中階）",
+    "teacher_name": "蔡美慧 ",
+    "time": "[2]5~6",
+    "classroom": "醫學院                        604"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": "醫學院                        501"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "醫學院                        第四講堂"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "醫技醫工館                    5761"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8",
+    "classroom": "醫技醫工館                    5761"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "謝式洲*",
+    "time": "[3]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "生物學",
+    "teacher_name": "吳文鑾 胥直利*簡伯武 蔡美玲 李碧雪 任卓穎 顏賢章 蔣輯武 黃步敏 江美治 ",
+    "time": "[3]5~6",
+    "classroom": "醫學院                        第三講堂"
+  },
+  {
+    "course_name": "生物學",
+    "teacher_name": "吳文鑾 傅子芳 胥直利*蔡美玲 李碧雪 任卓穎 顏賢章 蔣輯武 黃步敏 江美治 ",
+    "time": "[5]6",
+    "classroom": "醫學院                        第三講堂"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[5]1~2",
+    "classroom": ""
+  },
+  {
+    "course_name": "有機化學",
+    "teacher_name": "陳毓宏*",
+    "time": "[4]3~4",
+    "classroom": "醫學院                        第二講堂"
+  },
+  {
+    "course_name": "習醫之道－醫師專業養成與體驗（二）",
+    "teacher_name": "楊延光 趙曉秋 楊宜青 林志勝*姚維仁 謝式洲 張俊彥 邱元佑 沈延盛 劉秉彥 蔡景仁 ",
+    "time": "[1]A~B",
+    "classroom": "醫學院                        第四講堂"
+  },
+  {
+    "course_name": "醫師科學家",
+    "teacher_name": "許博翔 蕭振仁 張俊彥 沈孟儒 沈延盛*謝奇璋 江伯敏 ",
+    "time": "[4]9~A",
+    "classroom": "醫學院                        第一講堂"
+  },
+  {
+    "course_name": "醫學科學研究（二）",
+    "teacher_name": "姚維仁 張俊彥 許桂森*",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "全球視野與溝通",
+    "teacher_name": "張嘉倩 張雋曦*王淑鶯 黃一修 林明彥 古鯉榕 邱靜如 ",
+    "time": "[5]7~8",
+    "classroom": "醫學院                        208"
+  },
+  {
+    "course_name": "公共衛生危機準備與災難應變",
+    "teacher_name": "楊永年 黃泰霖 柯乃熒 紀志賢*姚維仁 翁裕峯 張俊彥 林志豪 王秀雲 許以霖 施欣怡 ",
+    "time": "未定",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": "醫學院                        物治207"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "醫學院                        物治207"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8[4]5~6",
+    "classroom": "醫學院                        物治207"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[1]2~3",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[3]2",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林　牛 ",
+    "time": "[3]2",
+    "classroom": "醫學院                        物治207"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "洪英志 ",
+    "time": "[3]2",
+    "classroom": "醫技醫工館                    5777"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳重弘 ",
+    "time": "[3]2",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "王辰樹 ",
+    "time": "[3]2",
+    "classroom": "醫學院                        604"
+  },
+  {
+    "course_name": "普通心理學",
+    "teacher_name": "游一龍*郭乃文 黃惠玲 余睿羚 ",
+    "time": "[4]4[4]7~8",
+    "classroom": "醫學院                        第四講堂"
+  },
+  {
+    "course_name": "普通生物學（二）",
+    "teacher_name": "王浩文 何盧勳*邱慈暉 李純純 彭怡禎 ",
+    "time": "[3]5~6",
+    "classroom": "醫學院                        501"
+  },
+  {
+    "course_name": "普通生物學實驗（二）",
+    "teacher_name": "何盧勳*邱慈暉 李純純 彭怡禎 ",
+    "time": "[1]5~7",
+    "classroom": "生科系館                      3435"
+  },
+  {
+    "course_name": "普通物理學",
+    "teacher_name": "盧炎田 ",
+    "time": "[2]2[3]3~4",
+    "classroom": "醫學院                        物治207"
+  },
+  {
+    "course_name": "普通物理學實驗",
+    "teacher_name": "盧炎田 ",
+    "time": "[4]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "卓瓊鈺*黃英修 ",
+    "time": "[5]N",
+    "classroom": "物治系館                      B02"
+  },
+  {
+    "course_name": "服務學習（二）－無障礙之家",
+    "teacher_name": "洪菁霞 ",
+    "time": "[5]3~4",
+    "classroom": "物治系館                      B02"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "表體解剖",
+    "teacher_name": "徐阿田 ",
+    "time": "[5]5~6",
+    "classroom": "醫學院                        物治104"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "醫學院                        307"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通心理學",
+    "teacher_name": "游一龍*郭乃文 黃惠玲 余睿羚 ",
+    "time": "[4]4[4]7~8",
+    "classroom": "醫學院                        第四講堂"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "林玲伊*黃百川 ",
+    "time": "[1]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "成人發展與老化",
+    "teacher_name": "汪翠瀅 ",
+    "time": "[3]1~2",
+    "classroom": "醫學院                        204D"
+  },
+  {
+    "course_name": "職能治療學理論",
+    "teacher_name": "蔡佩倫 黃雅淑 汪翠瀅*林玲伊 ",
+    "time": "[1]5~6",
+    "classroom": "醫學院                        204D"
+  },
+  {
+    "course_name": "職能治療臨床見習",
+    "teacher_name": "蔡佩倫 張哲豪 黃雅淑 汪翠瀅 林玲伊 黃百川*",
+    "time": "[3]3~4",
+    "classroom": "醫學院                        204D"
+  },
+  {
+    "course_name": "職能治療臨床見習",
+    "teacher_name": "蔡佩倫 張哲豪 黃雅淑 汪翠瀅 林玲伊 黃百川*",
+    "time": "[5]3~4",
+    "classroom": "醫學院                        205D"
+  },
+  {
+    "course_name": "職能治療個人發展與世界觀",
+    "teacher_name": "陳官琳*黃百川 ",
+    "time": "[3]5~6",
+    "classroom": "醫學院                        304D"
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]2",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[1]2~3",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[3]2",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林　牛 ",
+    "time": "[3]2",
+    "classroom": "醫學院                        物治207"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "洪英志 ",
+    "time": "[3]2",
+    "classroom": "醫技醫工館                    5777"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳重弘 ",
+    "time": "[3]2",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "王辰樹 ",
+    "time": "[3]2",
+    "classroom": "醫學院                        604"
+  },
+  {
+    "course_name": "普通化學實驗",
+    "teacher_name": "宋光生 ",
+    "time": "[4]5~7",
+    "classroom": "理化大樓                      35121"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通生物學（二）",
+    "teacher_name": "王浩文 何盧勳*邱慈暉 李純純 彭怡禎 ",
+    "time": "[3]5~6",
+    "classroom": "醫學院                        501"
+  },
+  {
+    "course_name": "藥學生涯",
+    "teacher_name": "高雅慧*黃金鼎 ",
+    "time": "[2]7~8",
+    "classroom": "醫學院                        501"
+  },
+  {
+    "course_name": "中藥概論",
+    "teacher_name": "吳天賞*",
+    "time": "[5]5~6",
+    "classroom": "化學系館                      3267"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4[5]2",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "許登科 ",
+    "time": "[4]N",
+    "classroom": "社科院大樓                    80105"
+  },
+  {
+    "course_name": "憲法（二）",
+    "teacher_name": "陳怡凱 ",
+    "time": "[4]3~4",
+    "classroom": "社科院大樓                    80105"
+  },
+  {
+    "course_name": "憲法（二）",
+    "teacher_name": "蔡維音 ",
+    "time": "[1]5~6",
+    "classroom": "社科院大樓                    80105"
+  },
+  {
+    "course_name": "刑法總則（二）",
+    "teacher_name": "許澤天 ",
+    "time": "[4]7~9",
+    "classroom": "社科院大樓                    80105"
+  },
+  {
+    "course_name": "刑法總則（二）",
+    "teacher_name": "王效文 ",
+    "time": "[3]7~9",
+    "classroom": "社科院大樓                    80105"
+  },
+  {
+    "course_name": "民法總則（二）",
+    "teacher_name": "葉婉如 ",
+    "time": "[3]5~6",
+    "classroom": "社科院大樓                    80105"
+  },
+  {
+    "course_name": "民法總則（二）",
+    "teacher_name": "侯英泠 ",
+    "time": "[4]1~2",
+    "classroom": "社科院大樓                    80105"
+  },
+  {
+    "course_name": "德文（二）",
+    "teacher_name": "許澤天 ",
+    "time": "[5]5~6",
+    "classroom": "社科院大樓                    實習法庭"
+  },
+  {
+    "course_name": "歐洲法律史",
+    "teacher_name": "李君韜 ",
+    "time": "[4]5~6",
+    "classroom": "社科院大樓                    80203"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4[5]2",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "政治學概論（二）",
+    "teacher_name": "李國維 ",
+    "time": "[4]2~4",
+    "classroom": "社科院大樓                    80101"
+  },
+  {
+    "course_name": "經濟學原理（二）",
+    "teacher_name": "田維華 ",
+    "time": "[2]7~9",
+    "classroom": "社科院大樓                    80101"
+  },
+  {
+    "course_name": "中華民國憲法與政府（二）",
+    "teacher_name": "莊輝濤 ",
+    "time": "[5]5~6",
+    "classroom": "社科院大樓                    80101"
+  },
+  {
+    "course_name": "社會學概論",
+    "teacher_name": "王金壽 ",
+    "time": "[3]6~8",
+    "classroom": "社科院大樓                    80101"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳欣之 ",
+    "time": "[1]N",
+    "classroom": "社科院大樓                    80101"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4[5]2",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "統計學（二）",
+    "teacher_name": "馬瀰嘉 ",
+    "time": "[4]2~4",
+    "classroom": "社科院大樓                    80103"
+  },
+  {
+    "course_name": "會計學（二）",
+    "teacher_name": "施坤宏 ",
+    "time": "[2]6~8",
+    "classroom": "社科院大樓                    80103"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉育佑 ",
+    "time": "[3]7~8[5]6",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉育佑 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7401"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7403"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "沈士育 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7405"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃柏嶧 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7407"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李春得 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7404"
+  },
+  {
+    "course_name": "經濟學原理（二）",
+    "teacher_name": "郭彥廉 ",
+    "time": "[2]2~4",
+    "classroom": "社科院大樓                    80103"
+  },
+  {
+    "course_name": "經濟學原理（二）",
+    "teacher_name": "郭彥廉 ",
+    "time": "[3]9",
+    "classroom": "社科院大樓                    80103"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "伍弘歷 ",
+    "time": "[3]N",
+    "classroom": "社科院大樓                    80103"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]1[4]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "謝淑蘭*",
+    "time": "[1]9",
+    "classroom": "社科院大樓                    階梯教室-心理"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "心理學概論（二）",
+    "teacher_name": "蕭富仁*周麗芳 胡中凡 陳德祐 黃柏僩 ",
+    "time": "[3]2~4",
+    "classroom": "社科院大樓                    80201"
+  },
+  {
+    "course_name": "心理與教育統計學（二）",
+    "teacher_name": "陳德祐*",
+    "time": "[4]2~4",
+    "classroom": "社科院大樓                    80201"
+  },
+  {
+    "course_name": "普通生物學",
+    "teacher_name": "胡書榕*邱文泰*",
+    "time": "[4]7~9",
+    "classroom": "社科院大樓                    80201"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉育佑 ",
+    "time": "[3]7~8[5]6",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "劉育佑 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7401"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7403"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "沈士育 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7405"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃柏嶧 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7407"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "李春得 ",
+    "time": "[5]5",
+    "classroom": "唯農大樓                      7404"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "電機系館                      繁城講堂"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "電機系館                      92171"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": "電機系館                      迅慧講堂"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "電機系館                      92171"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "王辰樹 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "數學系館                      3173"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "王辰樹 ",
+    "time": "[5]1",
+    "classroom": "數學系館                      3173"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林景隆 ",
+    "time": "[5]1",
+    "classroom": "數學系館                      3174"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "黃榮俊 ",
+    "time": "[2]5~6[4]1",
+    "classroom": "電機系館                      繁城講堂"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "羅光耀 ",
+    "time": "[1]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "計算機概論（二）",
+    "teacher_name": "斯國峰 ",
+    "time": "[2]1[4]3~4",
+    "classroom": "電機系館                      92171"
+  },
+  {
+    "course_name": "邏輯系統",
+    "teacher_name": "林輝堂 ",
+    "time": "[3]5~6[5]8",
+    "classroom": "電機系館                      92171"
+  },
+  {
+    "course_name": "線性代數",
+    "teacher_name": "王振興 ",
+    "time": "[2]7~8[5]7",
+    "classroom": "電機系館                      92171"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳　敬 ",
+    "time": "[3]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "電機系館                      92177"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "電機系館                      92283"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "洪英志 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "電機系館                      迅慧講堂"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "洪英志 ",
+    "time": "[5]1",
+    "classroom": "電機系館                      92171"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "方永富 ",
+    "time": "[5]1",
+    "classroom": "電機系館                      92177"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "鄺國權 ",
+    "time": "[5]1",
+    "classroom": "電機系館                      92185"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "黃榮俊 ",
+    "time": "[2]5~6[4]1",
+    "classroom": "電機系館                      繁城講堂"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "楊毅 ",
+    "time": "[1]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "計算機概論（二）",
+    "teacher_name": "黃仁暐 ",
+    "time": "[4]3~4[2]1",
+    "classroom": "電機系館                      92177"
+  },
+  {
+    "course_name": "邏輯系統",
+    "teacher_name": "陳中和 ",
+    "time": "[3]1[5]5~6",
+    "classroom": "電機系館                      92177"
+  },
+  {
+    "course_name": "線性代數",
+    "teacher_name": "謝明得 ",
+    "time": "[2]7~8[5]7",
+    "classroom": "電機系館                      92177"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "黃世杰 ",
+    "time": "[1]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "電機系館                      92185"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "電機系館                      92177"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "黃榮俊 ",
+    "time": "[2]5~6[4]1",
+    "classroom": "電機系館                      繁城講堂"
+  },
+  {
+    "course_name": "普通物理學實驗（二）",
+    "teacher_name": "陳岳男 ",
+    "time": "[1]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "計算機概論（二）",
+    "teacher_name": "林家民 ",
+    "time": "[2]7~8[5]7",
+    "classroom": "電機系館                      92185"
+  },
+  {
+    "course_name": "邏輯系統",
+    "teacher_name": "周哲民 ",
+    "time": "[3]1[5]5~6",
+    "classroom": "電機系館                      92185"
+  },
+  {
+    "course_name": "線性代數",
+    "teacher_name": "張名先 ",
+    "time": "[1]6[3]7~8",
+    "classroom": "電機系館                      92185"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "王永和 ",
+    "time": "[5]9",
+    "classroom": ""
+  },
+  {
+    "course_name": "邏輯系統實習",
+    "teacher_name": "林輝堂 ",
+    "time": "[5]N~6",
+    "classroom": "電機系館                      92433"
+  },
+  {
+    "course_name": "邏輯系統實習",
+    "teacher_name": "林輝堂 ",
+    "time": "[4]7~9",
+    "classroom": "電機系館                      92433"
+  },
+  {
+    "course_name": "邏輯系統實習",
+    "teacher_name": "陳中和 ",
+    "time": "[3]7~9",
+    "classroom": "電機系館                      92433"
+  },
+  {
+    "course_name": "邏輯系統實習",
+    "teacher_name": "陳中和 ",
+    "time": "[1]N~6",
+    "classroom": "電機系館                      92433"
+  },
+  {
+    "course_name": "邏輯系統實習",
+    "teacher_name": "周哲民 ",
+    "time": "[4]2~4",
+    "classroom": "電機系館                      92433"
+  },
+  {
+    "course_name": "邏輯系統實習",
+    "teacher_name": "周哲民 ",
+    "time": "[3]N~6",
+    "classroom": "電機系館                      92433"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": "資訊系館                      4201"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "資訊系館                      4201"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": "資訊系館                      4203"
+  },
+  {
+    "course_name": "普通物理學（二）",
+    "teacher_name": "趙梓程 ",
+    "time": "[4]6~8",
+    "classroom": "資訊新館                      65304"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳重弘 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "測量系館                      經緯廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳重弘 ",
+    "time": "[5]1",
+    "classroom": "資訊系館                      4202"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃世昌 ",
+    "time": "[5]1",
+    "classroom": "資訊系館                      4203"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "蕭仁傑 ",
+    "time": "[5]1",
+    "classroom": "資訊系館                      4201"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "郭鴻文 ",
+    "time": "[5]1",
+    "classroom": "資訊系館                      4260"
+  },
+  {
+    "course_name": "線性代數",
+    "teacher_name": "陳朝鈞 ",
+    "time": "[3]5~7",
+    "classroom": "資訊系館                      4264"
+  },
+  {
+    "course_name": "程式設計（二）",
+    "teacher_name": "蔡孟勳 ",
+    "time": "[2]7~9",
+    "classroom": "資訊新館                      65304"
+  },
+  {
+    "course_name": "數位電路導論",
+    "teacher_name": "梁勝富 ",
+    "time": "[4]2~4",
+    "classroom": "資訊系館                      4264"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": "資訊系館                      4263"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "李同益 ",
+    "time": "[4]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": "資訊系館                      4202"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]2[5]3~4",
+    "classroom": "資訊系館                      4202"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "李同益 ",
+    "time": "[1]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "建築系館                      5103"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]3~4",
+    "classroom": "建築科技大樓                  5172"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]2",
+    "classroom": "建築科技大樓                  5172"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": "建築系館                      5104"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "建築設計（二）",
+    "teacher_name": "林煌迪 吳秉聲*顏世樺 陳恥德 黃宜清 葉玉祥 ",
+    "time": "[2]6",
+    "classroom": "建築系館                      5111"
+  },
+  {
+    "course_name": "建築設計（二）",
+    "teacher_name": "林煌迪 吳秉聲*顏世樺 陳恥德 黃宜清 ",
+    "time": "[2]7~9[5]6~8",
+    "classroom": "建築系館                      5111"
+  },
+  {
+    "course_name": "工程力學",
+    "teacher_name": "鍾育霖 ",
+    "time": "[1]2~3[4]9",
+    "classroom": "建築科技大樓                  5172"
+  },
+  {
+    "course_name": "建築圖與表現法",
+    "teacher_name": "陳柏年 ",
+    "time": "[1]N[2]N",
+    "classroom": "建築系館                      5111"
+  },
+  {
+    "course_name": "繪畫（二）",
+    "teacher_name": "黃步青 ",
+    "time": "[3]5~7",
+    "classroom": "建築系館                      5133"
+  },
+  {
+    "course_name": "建築徒手繪圖之理論與技巧",
+    "teacher_name": "陳柏年 ",
+    "time": "[5]9~A",
+    "classroom": "建築系館                      5111"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]7~8",
+    "classroom": "都計系館                      50204"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4[4]2",
+    "classroom": "都計系館                      50202"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": "都計系館                      50202"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": "都計系館                      50204"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "陳志宏 ",
+    "time": "[2]2",
+    "classroom": "都計系館                      50303"
+  },
+  {
+    "course_name": "都市計劃概論",
+    "teacher_name": "李子璋*孔憲法 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "都計系館                      50204"
+  },
+  {
+    "course_name": "基本設計（一）",
+    "teacher_name": "曾憲嫻 蔡振芳 陳志宏*",
+    "time": "[3]3~4",
+    "classroom": "都計系館                      50303"
+  },
+  {
+    "course_name": "基本設計（一）",
+    "teacher_name": "曾憲嫻 蔡振芳 陳志宏*",
+    "time": "[3]6~8",
+    "classroom": "都計系館                      50303"
+  },
+  {
+    "course_name": "都市社會學",
+    "teacher_name": "謝宏昌 ",
+    "time": "[1]5~6",
+    "classroom": "都計系館                      50204"
+  },
+  {
+    "course_name": "經濟學",
+    "teacher_name": "蔡群立 ",
+    "time": "[2]7~9",
+    "classroom": "都計系館                      50204"
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "陳日昇 ",
+    "time": "[4]3~4",
+    "classroom": "資訊大樓                      75309"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]7~8",
+    "classroom": "工設系館                      5260"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": "唯農大樓                      7117"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[4]2",
+    "classroom": "唯農大樓                      7117"
+  },
+  {
+    "course_name": "公民",
+    "teacher_name": "未定 ",
+    "time": "[5]3~4",
+    "classroom": "唯農大樓                      7113"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[2]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[4]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "許書瑋 ",
+    "time": "[5]N",
+    "classroom": ""
+  },
+  {
+    "course_name": "表現技法",
+    "teacher_name": "何俊亨 ",
+    "time": "[4]3",
+    "classroom": "無                            53309"
+  },
+  {
+    "course_name": "表現技法",
+    "teacher_name": "何俊亨 ",
+    "time": "[4]4~N",
+    "classroom": "無                            53309"
+  },
+  {
+    "course_name": "表現技法",
+    "teacher_name": "陸定邦 ",
+    "time": "[3]3",
+    "classroom": "無                            53309"
+  },
+  {
+    "course_name": "表現技法",
+    "teacher_name": "陸定邦 ",
+    "time": "[3]4~N",
+    "classroom": "無                            53309"
+  },
+  {
+    "course_name": "基本設計（二）",
+    "teacher_name": "許書瑋 ",
+    "time": "[1]5~A",
+    "classroom": "無                            53309"
+  },
+  {
+    "course_name": "基本設計（二）",
+    "teacher_name": "馬敏元 ",
+    "time": "[5]5~A",
+    "classroom": "無                            53309"
+  },
+  {
+    "course_name": "基本設計（二）",
+    "teacher_name": "洪嘉永 ",
+    "time": "[5]5~A",
+    "classroom": "無                            53313"
+  },
+  {
+    "course_name": "計算機概論",
+    "teacher_name": "何俊亨 ",
+    "time": "[3]7~9",
+    "classroom": ""
+  },
+  {
+    "course_name": "色彩學",
+    "teacher_name": "周君瑞 ",
+    "time": "[2]5~6",
+    "classroom": "無                            53309"
+  },
+  {
+    "course_name": "普通物理學",
+    "teacher_name": "陳則銘 ",
+    "time": "[1]2~3[3]2",
+    "classroom": "耐震擴建大樓                  5108"
+  },
+  {
+    "course_name": "專題模型製作",
+    "teacher_name": "洪郁修 ",
+    "time": "[3]3~4",
+    "classroom": "無                            53X02"
+  },
+  {
+    "course_name": "專題模型製作",
+    "teacher_name": "魏仲君 ",
+    "time": "[4]3~4",
+    "classroom": "無                            53X02"
+  },
+  {
+    "course_name": "基礎國文（二）",
+    "teacher_name": "未定 ",
+    "time": "[3]7~8",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "英文（含口語訓練）（二）",
+    "teacher_name": "未定 ",
+    "time": "[1]8[4]5~6",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "體育（二）",
+    "teacher_name": "未定 ",
+    "time": "[5]7~8",
+    "classroom": ""
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[1]2~3",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "黃炎坤 ",
+    "time": "[3]2",
+    "classroom": "化工系館                      華立廳"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "林　牛 ",
+    "time": "[3]2",
+    "classroom": "醫學院                        物治207"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "洪英志 ",
+    "time": "[3]2",
+    "classroom": "醫技醫工館                    5777"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "陳重弘 ",
+    "time": "[3]2",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "微積分（二）",
+    "teacher_name": "王辰樹 ",
+    "time": "[3]2",
+    "classroom": "醫學院                        604"
+  },
+  {
+    "course_name": "通識課程",
+    "teacher_name": "未定 ",
+    "time": "[2]5~6",
+    "classroom": ""
+  },
+  {
+    "course_name": "歷史",
+    "teacher_name": "未定 ",
+    "time": "[2]3~4",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通物理學",
+    "teacher_name": "周忠憲 ",
+    "time": "[3]3~4[5]2",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "普通物理學實驗",
+    "teacher_name": "陳則銘 ",
+    "time": "[4]1~3",
+    "classroom": ""
+  },
+  {
+    "course_name": "普通生物學（二）",
+    "teacher_name": "曾淑芬 李亞夫 張素瓊 王浩文 何盧勳*邱慈暉 陳一菁 李純純 仲澤剛史 ",
+    "time": "[1]5~6[5]3~4",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "普通生物學實驗（二）",
+    "teacher_name": "李亞夫 王浩文*陳一菁 ",
+    "time": "[4]7~9",
+    "classroom": "生科系館                      3435"
+  },
+  {
+    "course_name": "服務學習（二）",
+    "teacher_name": "李亞夫 何盧勳 陳一菁*彭怡禎 ",
+    "time": "[1]9",
+    "classroom": "生科系館                      3415"
+  },
+  {
+    "course_name": "生命科學討論（二）",
+    "teacher_name": "陳一菁*仲澤剛史 ",
+    "time": "[1]7",
+    "classroom": "生科系館                      3415"
+  }
+]
