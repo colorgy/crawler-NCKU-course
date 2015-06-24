@@ -70,12 +70,13 @@ class NckuCourseCrawler
             end
           end
 
-          @courses << {
+          course = {
             year: @year,
             term: @term,
             department: dep_n,
             department_code: dep_c,
             code: "#{@year}-#{@term}-#{serial_no}-#{code}-#{group_code}",
+            general_code: code,
             group: gs.join,
             grade: datas[6] && datas[6].text.to_i,
             name: datas[10] && datas[10].text.strip,
@@ -111,6 +112,8 @@ class NckuCourseCrawler
             location_8: course_locations[7],
             location_9: course_locations[8],
           }
+          @after_each_proc.call(:course => course) if @after_each_proc
+          @courses << course
         end # doc.css each row
       end # end thread do
     end # deps_h.each do
@@ -128,5 +131,5 @@ class NckuCourseCrawler
   end
 end
 
-cc = NckuCourseCrawler.new(year: 2015, term: 1)
-File.write('1041courses.json', JSON.pretty_generate(cc.courses))
+# cc = NckuCourseCrawler.new(year: 2015, term: 1)
+# File.write('1041courses.json', JSON.pretty_generate(cc.courses))
