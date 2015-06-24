@@ -103,7 +103,6 @@ class NckuCourseCrawler
         }
       end # doc.css each row
     end # deps_h.each do
-    File.write('courses.json', JSON.pretty_generate(@courses))
     @courses
   end
 
@@ -116,5 +115,5 @@ class NckuCourseCrawler
   end
 end
 
-cc = NckuCourseCrawler.new(year: 2014, term: 1)
-cc.courses
+cc = NckuCourseCrawler.new(year: 2015, term: 1)
+File.write('1041courses.json', JSON.pretty_generate(cc.courses))
