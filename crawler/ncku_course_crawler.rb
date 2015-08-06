@@ -8,6 +8,24 @@ require 'thwait'
 class NckuCourseCrawler
   include CrawlerRocks::DSL
 
+  PERIODS = {
+    "0" => 1,
+    "1" => 2,
+    "2" => 3,
+    "3" => 4,
+    "4" => 5,
+    "N" => 6,
+    "5" => 7,
+    "6" => 8,
+    "7" => 9,
+    "8" => 10,
+    "9" => 11,
+    "A" => 12,
+    "B" => 13,
+    "C" => 14,
+    "D" => 15,
+  }
+
   def initialize year: current_year, term: current_term, update_progress: nil, after_each: nil, params: nil
 
     @query_url = "http://course-query.acad.ncku.edu.tw/qry/qry002.php"
@@ -60,8 +78,8 @@ class NckuCourseCrawler
           datas[16].search('br').each {|br| br.replace("\n") }
           datas[16].text.strip.split("\n").each do |pss|
             pss.match(/\[(?<d>\d)\](?<ps>.+)/) do |m|
-              _start = m[:ps].split('~').first
-              _end = m[:ps].split('~').last
+              _start = PERIODS[m[:ps].split('~').first]
+              _end = PERIODS[m[:ps].split('~').last]
               (_start.._end).each do |period|
                 course_days << m[:d]
                 course_periods << period
