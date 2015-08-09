@@ -91,8 +91,8 @@ class NckuCourseCrawler
           course = {
             year: @year,
             term: @term,
-            department: dep_n,
-            department_code: dep_c,
+            department: dep_n.strip,
+            department_code: dep_c.strip,
             code: "#{@year}-#{@term}-#{serial_no}-#{code}-#{group_code}",
             general_code: code,
             group: gs.join,
